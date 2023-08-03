@@ -7,18 +7,18 @@
   ],
   "buildsFrom": [
     1038,
-    6694,
+    3086,
     1036
   ],
   "buildsInto": [
-    227005
+    7006
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6671_marksman_t4_galeforce.pie_c_12_23.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6671_marksman_t4_galeforce.pie_c_12_23.png",
   "simpleDescription": null,
   "nicknames": [
     "squallrider"

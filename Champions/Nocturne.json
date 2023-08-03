@@ -4,7 +4,7 @@
   "name": "Nocturne",
   "title": "the Eternal Nightmare",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Nocturne.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Nocturne.png",
   "resource": "MANA",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -827,7 +827,7 @@
   },
   "releaseDate": "2011-03-15",
   "releasePatch": "1.0.0.113",
-  "patchLastChanged": "12.18",
+  "patchLastChanged": "13.15",
   "price": {
     "blueEssence": 3150,
     "rp": 790,

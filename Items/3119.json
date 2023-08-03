@@ -4,8 +4,8 @@
   "tier": 3,
   "rank": [],
   "buildsFrom": [
-    6665,
-    6662,
+    3070,
+    3067,
     1028
   ],
   "buildsInto": [],
@@ -14,7 +14,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3119_wintersapproach.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3119_wintersapproach.png",
   "simpleDescription": null,
   "nicknames": [],
   "passives": [

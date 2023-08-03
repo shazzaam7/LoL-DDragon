@@ -6,7 +6,7 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    223193
+    4633
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -14,7 +14,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "Ornn",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4633_mage_t4_riftmaker.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4633_mage_t4_riftmaker.png",
   "simpleDescription": null,
   "nicknames": [
     "velkoz"

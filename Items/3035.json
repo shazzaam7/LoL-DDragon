@@ -10,16 +10,16 @@
     1036
   ],
   "buildsInto": [
-    4645,
-    6035,
-    226692
+    3033,
+    3036,
+    6694
   ],
   "specialRecipe": 0,
   "noEffects": true,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3035_marksman_t2_lastwhisper.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3035_marksman_t2_lastwhisper.png",
   "simpleDescription": "Overcomes enemies with high Armor",
   "nicknames": [
     "lw"

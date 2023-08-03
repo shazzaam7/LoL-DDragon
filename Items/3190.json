@@ -6,18 +6,18 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    4641,
+    3023,
     1033
   ],
   "buildsInto": [
-    227018
+    7019
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3190_enchanter_t4_locketofironsolari.pie_c_12_23.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3190_enchanter_t4_locketofironsolari.pie_c_12_23.png",
   "simpleDescription": "Activate to shield nearby allies from damage",
   "nicknames": [],
   "passives": [

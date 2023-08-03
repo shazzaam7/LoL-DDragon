@@ -10,17 +10,17 @@
     1027
   ],
   "buildsInto": [
-    226617,
-    226620,
-    224401,
-    226630
+    6653,
+    6655,
+    4644,
+    6656
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3802_mage_tier2_lostchapter.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3802_mage_tier2_lostchapter.png",
   "simpleDescription": "Restores Mana upon levelling up.",
   "nicknames": [
     "book"

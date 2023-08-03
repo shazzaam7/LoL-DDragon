@@ -6,18 +6,18 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    4637,
-    223814
+    3012,
+    4642
   ],
   "buildsInto": [
-    227032
+    7033
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6620_echoes_of_helia.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6620_echoes_of_helia.png",
   "simpleDescription": "Damage low-health enemies to trigger a cursed explosion, dealing damage and slowing nearby foes",
   "nicknames": [
     "spooky cup"

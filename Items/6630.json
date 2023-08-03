@@ -6,19 +6,19 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    224629,
-    7027,
-    6662
+    6029,
+    3133,
+    3067
   ],
   "buildsInto": [
-    227014
+    7015
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6630_fighter_t4_goredrinker.pie_c_12_23.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6630_fighter_t4_goredrinker.pie_c_12_23.png",
   "simpleDescription": null,
   "nicknames": [
     "slurp"

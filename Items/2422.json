@@ -7,20 +7,20 @@
   ],
   "buildsFrom": [],
   "buildsInto": [
-    4633,
-    6631,
-    4638,
-    223004,
-    7014,
-    7020,
-    4635
+    3006,
+    3047,
+    3020,
+    3158,
+    3111,
+    3117,
+    3009
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2422_class_t1_slightlymagicalboots.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2422_class_t1_slightlymagicalboots.png",
   "simpleDescription": null,
   "nicknames": [],
   "passives": [

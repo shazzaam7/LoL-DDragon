@@ -4,7 +4,7 @@
   "name": "Nami",
   "title": "the Tidecaller",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Nami.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Nami.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -199,7 +199,7 @@
         "icon": "https://cdn.communitydragon.org/latest/champion/Nami/ability-icon/p",
         "effects": [
           {
-            "description": "Innate: Nami's abilities grant 90 (+ 20% AP) bonus movement speed to allied champions hit, decaying over 1.5 seconds. The bonus is[ doubled ][ increased to 180 (+ 40% AP) ]from Tidal Wave.",
+            "description": "Innate: Nami's abilities grant 100 (+ 25% AP) bonus movement speed to allied champions hit, decaying over 1.5 seconds. The bonus is[ doubled ][ increased to 200 (+ 50% AP) ]from Tidal Wave.",
             "leveling": []
           }
         ],
@@ -243,11 +243,11 @@
                 "modifiers": [
                   {
                     "values": [
-                      75,
-                      130,
-                      185,
-                      240,
-                      295
+                      90,
+                      145,
+                      200,
+                      255,
+                      310
                     ],
                     "units": [
                       "",
@@ -887,7 +887,7 @@
   },
   "releaseDate": "2012-12-07",
   "releasePatch": "1.0.0.152",
-  "patchLastChanged": "13.4",
+  "patchLastChanged": "13.15",
   "price": {
     "blueEssence": 3150,
     "rp": 790,

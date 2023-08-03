@@ -4,7 +4,7 @@
   "name": "Katarina",
   "title": "the Sinister Blade",
   "fullName": "Katarina Du Couteau",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Katarina.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Katarina.png",
   "resource": "NONE",
   "attackType": "MELEE",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -728,7 +728,7 @@
   },
   "releaseDate": "2009-09-19",
   "releasePatch": "0.9.25.21",
-  "patchLastChanged": "13.7",
+  "patchLastChanged": "13.15",
   "price": {
     "blueEssence": 3150,
     "rp": 790,

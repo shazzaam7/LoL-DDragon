@@ -10,14 +10,14 @@
     1027
   ],
   "buildsInto": [
-    226631
+    6657
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3803_mage_t2_catalystofaeons.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3803_mage_t2_catalystofaeons.png",
   "simpleDescription": null,
   "nicknames": [],
   "passives": [

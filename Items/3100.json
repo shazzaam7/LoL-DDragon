@@ -6,9 +6,9 @@
     "LEGENDARY"
   ],
   "buildsFrom": [
-    6656,
-    7016,
-    7011
+    3057,
+    3113,
+    3108
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -16,7 +16,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3100_mage_t3_lichbane.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3100_mage_t3_lichbane.png",
   "simpleDescription": "Grants a bonus to next attack after spell cast",
   "nicknames": [],
   "passives": [

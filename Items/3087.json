@@ -6,7 +6,7 @@
     "LEGENDARY"
   ],
   "buildsFrom": [
-    226662,
+    6670,
     1018,
     2015
   ],
@@ -16,7 +16,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3087_statikk_shiv.srt13_10.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3087_statikk_shiv.srt13_10.png",
   "simpleDescription": "Movement builds charges that release chain lightning on basic attack",
   "nicknames": [],
   "passives": [

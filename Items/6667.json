@@ -6,18 +6,18 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    7009,
+    3105,
     1011
   ],
   "buildsInto": [
-    227026
+    7027
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6667_tank_t4_radiantvirtue.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6667_tank_t4_radiantvirtue.png",
   "simpleDescription": null,
   "nicknames": [],
   "passives": [

@@ -6,7 +6,7 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    226620
+    6655
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -14,7 +14,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "Ornn",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6655_mage_t4_ludenstempest.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6655_mage_t4_ludenstempest.png",
   "simpleDescription": null,
   "nicknames": [
     "boomstick"

@@ -10,14 +10,14 @@
     1033
   ],
   "buildsInto": [
-    6657
+    3065
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3211_tank_t2_spectrescowl.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3211_tank_t2_spectrescowl.png",
   "simpleDescription": "Improves defense and grants regeneration upon being damaged",
   "nicknames": [
     "hat",

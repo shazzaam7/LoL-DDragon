@@ -6,7 +6,7 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    6676
+    3078
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -14,7 +14,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "Ornn",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3078_fighter_t4_trinityforce.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3078_fighter_t4_trinityforce.png",
   "simpleDescription": null,
   "nicknames": [
     "triforce",
@@ -591,7 +591,7 @@
       "percentBonus": 0.0
     },
     "attackSpeed": {
-      "flat": 45.0,
+      "flat": 43.0,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,

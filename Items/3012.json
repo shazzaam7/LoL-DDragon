@@ -10,16 +10,16 @@
     1004
   ],
   "buildsInto": [
-    226035,
-    7010,
-    223047
+    6620,
+    3107,
+    3222
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3012_blessed_chalice.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3012_blessed_chalice.png",
   "simpleDescription": null,
   "nicknames": [
     "chalice"

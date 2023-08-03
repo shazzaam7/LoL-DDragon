@@ -10,22 +10,22 @@
     1036
   ],
   "buildsInto": [
-    7032,
-    226693,
-    223026,
-    226676,
-    223107,
-    226675,
-    226672,
-    226691,
-    226694
+    3142,
+    6695,
+    3179,
+    6692,
+    3814,
+    6691,
+    6676,
+    6693,
+    6696
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3134_assassin_t2_serrateddirk.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3134_assassin_t2_serrateddirk.png",
   "simpleDescription": "Increases Attack Damage and Lethality",
   "nicknames": [],
   "passives": [

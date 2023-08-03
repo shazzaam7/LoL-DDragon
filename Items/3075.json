@@ -6,7 +6,7 @@
     "LEGENDARY"
   ],
   "buildsFrom": [
-    6673,
+    3076,
     1011
   ],
   "buildsInto": [],
@@ -15,7 +15,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3075_tank_t3_thornmail.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3075_tank_t3_thornmail.png",
   "simpleDescription": null,
   "nicknames": [
     "grievous wounds"

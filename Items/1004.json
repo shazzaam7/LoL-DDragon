@@ -7,16 +7,16 @@
   ],
   "buildsFrom": [],
   "buildsInto": [
-    4637,
-    7017,
-    223814
+    3012,
+    3114,
+    4642
   ],
   "specialRecipe": 0,
   "noEffects": true,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1004_class_t1_faeriecharm.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1004_class_t1_faeriecharm.png",
   "simpleDescription": "Slightly increases Mana Regen",
   "nicknames": [],
   "passives": [],

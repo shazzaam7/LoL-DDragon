@@ -6,7 +6,7 @@
     "LEGENDARY"
   ],
   "buildsFrom": [
-    7031,
+    3140,
     1018,
     1037
   ],
@@ -16,7 +16,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3139_marksman_t3_mercurialscimitar.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3139_marksman_t3_mercurialscimitar.png",
   "simpleDescription": "Activate to remove all crowd control debuffs and grant massive Move Speed",
   "nicknames": [
     "merc scim"

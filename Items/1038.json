@@ -7,20 +7,20 @@
   ],
   "buildsFrom": [],
   "buildsInto": [
-    4643,
-    6670,
-    226664,
-    4644,
-    223177,
-    226671,
-    223006
+    3026,
+    3072,
+    6671,
+    3031,
+    4403,
+    6675,
+    3161
   ],
   "specialRecipe": 0,
   "noEffects": true,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1038_marksman_t1_bfsword.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1038_marksman_t1_bfsword.png",
   "simpleDescription": "Greatly increases Attack Damage",
   "nicknames": [
     "bf"

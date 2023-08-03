@@ -6,8 +6,8 @@
     "LEGENDARY"
   ],
   "buildsFrom": [
-    7011,
-    223190
+    3108,
+    4632
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -15,7 +15,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3102_mage_t3_bansheesveil.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3102_mage_t3_bansheesveil.png",
   "simpleDescription": "Periodically blocks enemy abilities",
   "nicknames": [
     "bv",

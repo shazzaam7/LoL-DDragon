@@ -4,7 +4,7 @@
   "name": "Camille",
   "title": "the Steel Shadow",
   "fullName": "Camille Ferros",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Camille.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Camille.png",
   "resource": "MANA",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -48,7 +48,7 @@
     "attackDamage": {
       "flat": 68,
       "percent": 0.0,
-      "perLevel": 3.5,
+      "perLevel": 3.8,
       "percentPerLevel": 0.0
     },
     "movespeed": {
@@ -864,9 +864,9 @@
                 "modifiers": [
                   {
                     "values": [
-                      5,
-                      10,
-                      15
+                      20,
+                      30,
+                      40
                     ],
                     "units": [
                       "",
@@ -956,7 +956,7 @@
   },
   "releaseDate": "2016-12-07",
   "releasePatch": "6.24",
-  "patchLastChanged": "12.23",
+  "patchLastChanged": "13.15",
   "price": {
     "blueEssence": 4800,
     "rp": 880,

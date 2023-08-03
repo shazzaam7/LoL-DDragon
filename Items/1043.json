@@ -9,18 +9,18 @@
     1042
   ],
   "buildsInto": [
-    6693,
-    7018,
-    7000,
-    222051,
-    226665
+    3085,
+    3115,
+    3091,
+    3153,
+    6672
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1043_base_t2_recurvebow.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1043_base_t2_recurvebow.png",
   "simpleDescription": "Greatly increases Attack Speed",
   "nicknames": [],
   "passives": [

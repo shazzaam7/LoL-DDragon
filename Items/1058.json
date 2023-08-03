@@ -7,17 +7,17 @@
   ],
   "buildsFrom": [],
   "buildsInto": [
-    223177,
-    4629,
-    6696,
-    224628
+    4403,
+    3003,
+    3089,
+    4645
   ],
   "specialRecipe": 0,
   "noEffects": true,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1058_mage_t1_largerod.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1058_mage_t1_largerod.png",
   "simpleDescription": "Greatly increases Ability Power",
   "nicknames": [
     "nlr"

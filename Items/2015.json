@@ -9,16 +9,16 @@
     1036
   ],
   "buildsInto": [
-    7002,
-    6695,
-    7001
+    3095,
+    3087,
+    3094
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2015_marksman_t2_kirkcheisshard.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2015_marksman_t2_kirkcheisshard.png",
   "simpleDescription": "Attack speed and a chargable magic hit",
   "nicknames": [],
   "passives": [

@@ -8,20 +8,20 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      7014,
-      4633,
-      4635,
-      4638,
-      6631,
-      7020,
-      223004
+      3111,
+      3006,
+      3009,
+      3020,
+      3047,
+      3117,
+      3158
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1001_class_t1_bootsofspeed.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1001_class_t1_bootsofspeed.png",
     "simpleDescription": "Slightly increases Move Speed",
     "nicknames": [],
     "passives": [],
@@ -216,16 +216,16 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      4637,
-      7017,
-      223814
+      3012,
+      3114,
+      4642
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1004_class_t1_faeriecharm.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1004_class_t1_faeriecharm.png",
     "simpleDescription": "Slightly increases Mana Regen",
     "nicknames": [],
     "passives": [],
@@ -423,14 +423,14 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      223095
+      3801
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1006_tank_t1_rejuvenationbead.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1006_tank_t1_rejuvenationbead.png",
     "simpleDescription": "Slightly increases Health Regen",
     "nicknames": [],
     "passives": [],
@@ -629,22 +629,22 @@
       1028
     ],
     "buildsInto": [
-      6692,
-      6672,
-      6691,
-      7019,
-      7033,
-      223094,
-      223508,
-      226657,
-      228001
+      3084,
+      3075,
+      3083,
+      3116,
+      3143,
+      3748,
+      4637,
+      6667,
+      8001
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1011_class_t2_giantsbelt.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1011_class_t2_giantsbelt.png",
     "simpleDescription": "Greatly increases Health",
     "nicknames": [],
     "passives": [],
@@ -843,26 +843,26 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      6670,
-      4644,
-      7030,
-      223084,
-      7002,
-      4645,
-      6035,
-      226671,
-      6694,
-      6695,
-      226665,
-      226667,
-      226672
+      3072,
+      3031,
+      3139,
+      3508,
+      3095,
+      3033,
+      3036,
+      6675,
+      3086,
+      3087,
+      6672,
+      6673,
+      6676
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1018_base_t1_cloakagility.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1018_base_t1_cloakagility.png",
     "simpleDescription": "Increases critical strike chance",
     "nicknames": [],
     "passives": [],
@@ -1059,21 +1059,21 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      223193,
-      226631,
-      226620,
-      7018,
-      7019,
-      7029,
-      8020,
-      223508
+      4633,
+      6657,
+      6655,
+      3115,
+      3116,
+      3135,
+      3152,
+      4637
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1026_mage_t1_blastingwand.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1026_mage_t1_blastingwand.png",
     "simpleDescription": "Moderately increases Ability Power",
     "nicknames": [],
     "passives": [],
@@ -1271,16 +1271,16 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      223100,
-      223102,
-      4642
+      3802,
+      3803,
+      3024
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1027_base_t1_saphirecrystal.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1027_base_t1_saphirecrystal.png",
     "simpleDescription": "Increases Mana",
     "nicknames": [
       "blue"
@@ -1480,35 +1480,35 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      224633,
+      6035,
       1011,
-      226632,
-      223046,
-      224637,
-      226656,
       6660,
-      223222,
-      4641,
-      223102,
-      7021,
-      4637,
-      6620,
-      223165,
-      6655,
-      6662,
-      7050,
-      223091,
-      223094,
-      223095,
-      223107,
-      226655
+      3211,
+      6609,
+      6665,
+      3066,
+      4635,
+      3023,
+      3803,
+      3119,
+      3012,
+      3044,
+      4401,
+      3053,
+      3067,
+      3145,
+      3742,
+      3748,
+      3801,
+      3814,
+      6664
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1028_base_t1_rubycrystal.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1028_base_t1_rubycrystal.png",
     "simpleDescription": "Increases Health",
     "nicknames": [
       "red"
@@ -1712,22 +1712,22 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      223042,
-      6673,
+      3193,
+      3076,
       1031,
-      4641,
-      6677,
-      4642,
-      6631,
-      7009,
-      223040
+      3023,
+      3082,
+      3024,
+      3047,
+      3105,
+      3191
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1029_base_t1_clotharmor.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1029_base_t1_clotharmor.png",
     "simpleDescription": "Slightly increases Armor",
     "nicknames": [],
     "passives": [],
@@ -1931,18 +1931,18 @@
       1029
     ],
     "buildsInto": [
-      4643,
-      226653,
-      6664,
-      223091,
-      224636
+      3026,
+      6662,
+      3068,
+      3742,
+      6333
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1031_base_t2_chainvest.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1031_base_t2_chainvest.png",
     "simpleDescription": "Greatly increases Armor",
     "nicknames": [],
     "passives": [],
@@ -2142,24 +2142,24 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      223042,
-      223046,
+      3193,
+      3211,
       1057,
-      7014,
-      4628,
-      7000,
-      7009,
-      7031,
-      222065,
-      223036,
-      223190
+      3111,
+      3001,
+      3091,
+      3105,
+      3140,
+      3155,
+      3190,
+      4632
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1033_base_t1_magicmantle.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1033_base_t1_magicmantle.png",
     "simpleDescription": "Slightly increases Magic Resist",
     "nicknames": [],
     "passives": [],
@@ -2362,29 +2362,29 @@
     "buildsFrom": [],
     "buildsInto": [
       1053,
-      223001,
-      226664,
+      3156,
+      6671,
       2015,
-      223026,
-      6653,
-      6667,
-      4630,
-      6029,
-      6620,
-      7001,
-      7024,
-      7027,
-      7028,
-      222065,
-      223107,
-      226662
+      3179,
+      3051,
+      3071,
+      3004,
+      3035,
+      3044,
+      3094,
+      3123,
+      3133,
+      3134,
+      3155,
+      3814,
+      6670
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1036_class_t1_longsword.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1036_class_t1_longsword.png",
     "simpleDescription": "Slightly increases Attack Damage",
     "nicknames": [],
     "passives": [],
@@ -2583,28 +2583,28 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      224633,
+      6035,
       2019,
-      223001,
-      4644,
-      226693,
-      7030,
-      6675,
-      6655,
-      7025,
-      222051,
-      223031,
-      224629,
-      224636,
-      226667,
-      226672
+      3156,
+      3031,
+      6695,
+      3139,
+      3077,
+      3053,
+      3124,
+      3153,
+      3181,
+      6029,
+      6333,
+      6673,
+      6676
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1037_class_t1_pickaxe.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1037_class_t1_pickaxe.png",
     "simpleDescription": "Moderately increases Attack Damage",
     "nicknames": [],
     "passives": [],
@@ -2803,20 +2803,20 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      4643,
-      6670,
-      226664,
-      4644,
-      223177,
-      226671,
-      223006
+      3026,
+      3072,
+      6671,
+      3031,
+      4403,
+      6675,
+      3161
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1038_marksman_t1_bfsword.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1038_marksman_t1_bfsword.png",
     "simpleDescription": "Greatly increases Attack Damage",
     "nicknames": [
       "bf"
@@ -3018,18 +3018,18 @@
     "buildsFrom": [],
     "buildsInto": [
       1043,
-      6653,
-      4633,
-      6694,
-      226673,
-      226662
+      3051,
+      3006,
+      3086,
+      6677,
+      6670
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1042_base_t1_dagger.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1042_base_t1_dagger.png",
     "simpleDescription": "Slightly increases Attack Speed",
     "nicknames": [],
     "passives": [],
@@ -3230,18 +3230,18 @@
       1042
     ],
     "buildsInto": [
-      6693,
-      7018,
-      7000,
-      222051,
-      226665
+      3085,
+      3115,
+      3091,
+      3153,
+      6672
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1043_base_t2_recurvebow.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1043_base_t2_recurvebow.png",
     "simpleDescription": "Greatly increases Attack Speed",
     "nicknames": [],
     "passives": [
@@ -3619,33 +3619,33 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      223009,
-      226631,
-      223156,
-      223184,
-      223100,
-      223222,
-      7016,
-      7011,
-      7019,
-      7025,
-      7050,
-      8020,
-      223040,
-      223508,
-      223185,
-      223190,
-      223504,
-      223814,
-      224401,
-      226630
+      3165,
+      6657,
+      3916,
+      4629,
+      3802,
+      4635,
+      3113,
+      3108,
+      3116,
+      3124,
+      3145,
+      3152,
+      3191,
+      4637,
+      4630,
+      4632,
+      4636,
+      4642,
+      4644,
+      6656
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1052_mage_t2_amptome.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1052_mage_t2_amptome.png",
     "simpleDescription": "Slightly increases Ability Power",
     "nicknames": [
       "amptome",
@@ -3848,18 +3848,18 @@
       1036
     ],
     "buildsInto": [
-      6670,
-      223177,
-      6671,
-      222051,
-      226667
+      3072,
+      4403,
+      3074,
+      3153,
+      6673
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1053_fighter_t2_vampiricscepter.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1053_fighter_t2_vampiricscepter.png",
     "simpleDescription": "Basic attacks restore Health",
     "nicknames": [],
     "passives": [],
@@ -4063,7 +4063,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1054_tank_t1_doransshield.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1054_tank_t1_doransshield.png",
     "simpleDescription": "Good defensive starting item",
     "nicknames": [
       "dshield"
@@ -4629,7 +4629,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1055_marksman_t1_doransblade.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1055_marksman_t1_doransblade.png",
     "simpleDescription": "Good starting item for attackers",
     "nicknames": [
       "dblade"
@@ -5015,7 +5015,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1056_mage_t1_doransring.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1056_mage_t1_doransring.png",
     "simpleDescription": "Good starting item for casters",
     "nicknames": [
       "dring"
@@ -5575,16 +5575,16 @@
       1033
     ],
     "buildsInto": [
-      223165,
-      226655,
-      228020
+      4401,
+      6664,
+      8020
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1057_tank_t2_negatroncloak.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1057_tank_t2_negatroncloak.png",
     "simpleDescription": "Moderately increases Magic Resist",
     "nicknames": [],
     "passives": [],
@@ -5783,17 +5783,17 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      223177,
-      4629,
-      6696,
-      224628
+      4403,
+      3003,
+      3089,
+      4645
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1058_mage_t1_largerod.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1058_mage_t1_largerod.png",
     "simpleDescription": "Greatly increases Ability Power",
     "nicknames": [
       "nlr"
@@ -5992,14 +5992,14 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      6616
+      3041
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1082_mage_t1_darkseal.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1082_mage_t1_darkseal.png",
     "simpleDescription": "Provides Ability Power and Mana.  Increases in power as you kill enemies.",
     "nicknames": [
       "Noxian"
@@ -6560,7 +6560,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1083_marksman_t1_cull.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1083_marksman_t1_cull.png",
     "simpleDescription": "Provides damage and Life Steal on hit - Killing minions grant bonus Gold",
     "nicknames": [
       "dblade"
@@ -6947,7 +6947,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1101_jungle_t1_scorchclawpup.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1101_jungle_t1_scorchclawpup.png",
     "simpleDescription": null,
     "nicknames": [
       "jungle"
@@ -7335,7 +7335,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1102_jungle_t1_gustwalkerhatchling.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1102_jungle_t1_gustwalkerhatchling.png",
     "simpleDescription": null,
     "nicknames": [
       "jungle"
@@ -7723,7 +7723,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1103_jungle_t1_mosstomperseedling.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1103_jungle_t1_mosstomperseedling.png",
     "simpleDescription": null,
     "nicknames": [
       "jungle"
@@ -8111,7 +8111,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/34.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/34.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -8490,7 +8490,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3042_netherrift_armor.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3042_netherrift_armor.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -8869,7 +8869,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/096_eye_of_the_observer.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/096_eye_of_the_observer.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -9248,7 +9248,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3042_netherrift_armor.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3042_netherrift_armor.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -9805,7 +9805,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1507_tournament_suddendeath.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1507_tournament_suddendeath.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -10184,7 +10184,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1508_antitowersocks.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1508_antitowersocks.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -10563,7 +10563,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1509_gusto.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1509_gusto.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -10942,7 +10942,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1510_phreakishgusto.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1510_phreakishgusto.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -11321,7 +11321,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1511_supermecharmor.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1511_supermecharmor.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -11700,7 +11700,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1512_supermechpowerfield.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1512_supermechpowerfield.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -12079,7 +12079,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1504_turretshielder.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1504_turretshielder.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -12458,7 +12458,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2003_class_t1_healthpotion.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2003_class_t1_healthpotion.png",
     "simpleDescription": "Consume to restore Health over time",
     "nicknames": [
       "red"
@@ -12662,7 +12662,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2010_class_t1_totalbiscuitofeverlastingwill.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2010_class_t1_totalbiscuitofeverlastingwill.png",
     "simpleDescription": null,
     "nicknames": [
       "kleptomancy"
@@ -12861,16 +12861,16 @@
       1036
     ],
     "buildsInto": [
-      7002,
-      6695,
-      7001
+      3095,
+      3087,
+      3094
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2015_marksman_t2_kirkcheisshard.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2015_marksman_t2_kirkcheisshard.png",
     "simpleDescription": "Attack speed and a chargable magic hit",
     "nicknames": [],
     "passives": [
@@ -13432,7 +13432,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2031_class_t1_refillablepotion.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2031_class_t1_refillablepotion.png",
     "simpleDescription": "Restores Health over time. Refills at shop.",
     "nicknames": [
       "Green Potion"
@@ -13817,7 +13817,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2033_class_t1_corruptingpotion.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2033_class_t1_corruptingpotion.png",
     "simpleDescription": "Restores Health and Mana over time and boosts combat power - Refills at Shop",
     "nicknames": [],
     "passives": [
@@ -14199,7 +14199,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2051_aram_t1_guardianshorn.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2051_aram_t1_guardianshorn.png",
     "simpleDescription": "Good starting item for tanks",
     "nicknames": [
       "Golden Arm of Kobe",
@@ -14766,7 +14766,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2052_poro_snack.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2052_poro_snack.png",
     "simpleDescription": "",
     "nicknames": [],
     "passives": [],
@@ -14966,7 +14966,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2055_class_t1_controlward.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2055_class_t1_controlward.png",
     "simpleDescription": "Used to disable wards and invisible traps in an area.",
     "nicknames": [
       "kleptomancy",
@@ -15165,18 +15165,18 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      6662,
-      223814
+      3067,
+      4642
     ],
     "buildsInto": [
-      227019
+      7020
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png",
     "simpleDescription": "Activate to speed up nearby allies.",
     "nicknames": [
       "shurelya",
@@ -15748,7 +15748,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2138_class_elixirofiron.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2138_class_elixirofiron.png",
     "simpleDescription": "Temporarily increases defenses. Leaves a trail for allies to follow.",
     "nicknames": [
       "orange",
@@ -15954,7 +15954,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2139_class_t1_elixirofsorcery.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2139_class_t1_elixirofsorcery.png",
     "simpleDescription": "Temporarily grants Ability Power and Bonus Damage to champions and turrets.",
     "nicknames": [
       "blue",
@@ -16162,7 +16162,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2140_class_t0_elixirofwrath.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2140_class_t0_elixirofwrath.png",
     "simpleDescription": "Temporarily grants Attack Damage and heals you when dealing physical damage to champions.",
     "nicknames": [
       "red potion",
@@ -16369,7 +16369,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2403_minion_dematerializer.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2403_minion_dematerializer.png",
     "simpleDescription": "",
     "nicknames": [
       "Sojourner",
@@ -16567,16 +16567,16 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      4004,
-      223003,
-      4643
+      2420,
+      3157,
+      3026
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2419_mage_t1_stopwatch.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2419_mage_t1_stopwatch.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -16950,15 +16950,15 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      4643,
-      223003
+      3026,
+      3157
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2419_mage_t1_stopwatch.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2419_mage_t1_stopwatch.png",
     "simpleDescription": "Activate to become invincible but unable to take actions",
     "nicknames": [
       "zhg",
@@ -17170,15 +17170,15 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      223003,
-      4643
+      3157,
+      3026
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2424_mage_t1_brokenstopwatch.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2424_mage_t1_brokenstopwatch.png",
     "simpleDescription": "Upgrades to stopwatch",
     "nicknames": [],
     "passives": [],
@@ -17381,20 +17381,20 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      4633,
-      6631,
-      4638,
-      223004,
-      7014,
-      7020,
-      4635
+      3006,
+      3047,
+      3020,
+      3158,
+      3111,
+      3117,
+      3009
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2422_class_t1_slightlymagicalboots.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2422_class_t1_slightlymagicalboots.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -17768,15 +17768,15 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      223003,
-      4643
+      3157,
+      3026
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2419_mage_t1_stopwatch.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2419_mage_t1_stopwatch.png",
     "simpleDescription": "Activate to become invincible but unable to take actions",
     "nicknames": [
       "zhg",
@@ -17982,18 +17982,18 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      4641,
+      3023,
       1033
     ],
     "buildsInto": [
-      227021
+      7023
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3001_support_lunari.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3001_support_lunari.png",
     "simpleDescription": "Nearby enemies take more magic damage",
     "nicknames": [],
     "passives": [
@@ -18547,8 +18547,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6665,
-      6662,
+      3070,
+      3067,
       1058
     ],
     "buildsInto": [],
@@ -18557,7 +18557,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3003_mage_t3_archangelstaff.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3003_mage_t3_archangelstaff.png",
     "simpleDescription": "Increases Ability Power based on maximum Mana",
     "nicknames": [
       "aa"
@@ -19290,8 +19290,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6665,
-      7027,
+      3070,
+      3133,
       1036
     ],
     "buildsInto": [],
@@ -19300,7 +19300,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3004_marksman_t3_manamune.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3004_marksman_t3_manamune.png",
     "simpleDescription": "Increases Attack Damage based on maximum Mana",
     "nicknames": [],
     "passives": [
@@ -20038,7 +20038,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4001_ghostwalkers.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4001_ghostwalkers.png",
     "simpleDescription": "Increases Attack Damage based on maximum Health",
     "nicknames": [
       "wreckoning"
@@ -20424,7 +20424,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3006_class_t2_berserkersgreaves.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3006_class_t2_berserkersgreaves.png",
     "simpleDescription": "Enhances Move Speed and Attack Speed",
     "nicknames": [
       "boots",
@@ -20629,7 +20629,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3009_class_t2_bootsofswiftness.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3009_class_t2_bootsofswiftness.png",
     "simpleDescription": "Enhances Move Speed and reduces the effect of slows",
     "nicknames": [
       "swifties"
@@ -20825,8 +20825,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      223156,
-      7017
+      3916,
+      3114
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -20834,7 +20834,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3011_enchanter_t3_chemtechfumigator.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3011_enchanter_t3_chemtechfumigator.png",
     "simpleDescription": null,
     "nicknames": [
       "putrid",
@@ -21217,16 +21217,16 @@
       1004
     ],
     "buildsInto": [
-      226035,
-      7010,
-      223047
+      6620,
+      3107,
+      3222
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3012_blessed_chalice.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3012_blessed_chalice.png",
     "simpleDescription": null,
     "nicknames": [
       "chalice"
@@ -21612,7 +21612,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3020_class_t2_sorcerersshoes.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3020_class_t2_sorcerersshoes.png",
     "simpleDescription": "Enhances Move Speed and magic damage",
     "nicknames": [
       "boots",
@@ -21813,17 +21813,17 @@
       1029
     ],
     "buildsInto": [
-      7012,
-      6632,
-      4628,
-      223036
+      3109,
+      3050,
+      3001,
+      3190
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3023_lifewell_pendant.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3023_lifewell_pendant.png",
     "simpleDescription": "Summon wraiths to slow and reveal enemy champions",
     "nicknames": [
       "spooky ghosts"
@@ -22026,15 +22026,15 @@
       1029
     ],
     "buildsInto": [
-      6632,
-      7013
+      3050,
+      3110
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3024_tank_t2_glacialshroud.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3024_tank_t2_glacialshroud.png",
     "simpleDescription": "Increases Armor and Cooldown Reduction",
     "nicknames": [],
     "passives": [],
@@ -22233,7 +22233,7 @@
     "buildsFrom": [
       1038,
       1031,
-      4004
+      2420
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -22241,7 +22241,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3026_fighter_t3_guardianangel.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3026_fighter_t3_guardianangel.png",
     "simpleDescription": "Periodically revives champion upon death",
     "nicknames": [
       "ga"
@@ -22625,14 +22625,14 @@
       1018
     ],
     "buildsInto": [
-      227030
+      7031
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3031_marksman_t3_infinityedge.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3031_marksman_t3_infinityedge.png",
     "simpleDescription": "Massively enhances critical strikes",
     "nicknames": [
       "ie"
@@ -23009,8 +23009,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7024,
-      6029,
+      3123,
+      3035,
       1018
     ],
     "buildsInto": [],
@@ -23019,7 +23019,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3033_marksman_t3_mortalreminder.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3033_marksman_t3_mortalreminder.png",
     "simpleDescription": "Overcomes enemies with high Health recovery and Armor",
     "nicknames": [
       "lw",
@@ -23401,16 +23401,16 @@
       1036
     ],
     "buildsInto": [
-      4645,
-      6035,
-      226692
+      3033,
+      3036,
+      6694
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3035_marksman_t2_lastwhisper.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3035_marksman_t2_lastwhisper.png",
     "simpleDescription": "Overcomes enemies with high Armor",
     "nicknames": [
       "lw"
@@ -23610,7 +23610,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6029,
+      3035,
       1018
     ],
     "buildsInto": [],
@@ -23619,7 +23619,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3036_marksman_t3_dominikregards.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3036_marksman_t3_dominikregards.png",
     "simpleDescription": "Overcomes enemies with high health and armor",
     "nicknames": [
       "lw",
@@ -24004,7 +24004,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3048_mage_t3_seraphsembrace.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3048_mage_t3_seraphsembrace.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -24563,7 +24563,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3041_mage_t2_mejaissoulstealer.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3041_mage_t2_mejaissoulstealer.png",
     "simpleDescription": "Grants Ability Power for kills and assists",
     "nicknames": [
       "book"
@@ -25125,7 +25125,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3042_marksman_t3_muramana.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3042_marksman_t3_muramana.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -25685,15 +25685,15 @@
       1036
     ],
     "buildsInto": [
-      6655,
-      223031
+      3053,
+      3181
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3044_fighter_t2_phage.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3044_fighter_t2_phage.png",
     "simpleDescription": "Attacks and kills give a small burst of speed",
     "nicknames": [
       "mallet"
@@ -26071,8 +26071,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6653,
-      6694
+      3051,
+      3086
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -26080,7 +26080,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3046_marksman_t3_phantomdancer.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3046_marksman_t3_phantomdancer.png",
     "simpleDescription": "Move faster while attacking enemies and gain a shield when on low health.",
     "nicknames": [
       "pd"
@@ -26467,7 +26467,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3047_class_t2_ninjatabi.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3047_class_t2_ninjatabi.png",
     "simpleDescription": "Enhances Move Speed and reduces incoming basic attack damage",
     "nicknames": [
       "boots",
@@ -26843,8 +26843,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      4641,
-      4642
+      3023,
+      3024
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -26852,7 +26852,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3050_enchanter_t3_zekesconvergence.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3050_enchanter_t3_zekesconvergence.png",
     "simpleDescription": "Grants you and your ally bonuses when you cast your ultimate.",
     "nicknames": [
       "haroldandkumar"
@@ -27244,17 +27244,17 @@
       1036
     ],
     "buildsInto": [
-      6676,
-      226609,
-      6630,
-      7000
+      3078,
+      6631,
+      3046,
+      3091
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3051_fighter_t2_axeofavarosa.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3051_fighter_t2_axeofavarosa.png",
     "simpleDescription": null,
     "nicknames": [
       "blue arrow"
@@ -27634,7 +27634,7 @@
     ],
     "buildsFrom": [
       1037,
-      6620,
+      3044,
       1028
     ],
     "buildsInto": [],
@@ -27643,7 +27643,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3053_steraks_gage.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3053_steraks_gage.png",
     "simpleDescription": "Shields against large bursts of damage",
     "nicknames": [
       "juggernaut",
@@ -28203,18 +28203,18 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      226616,
-      226653,
-      223084,
-      7005,
-      6676
+      6632,
+      6662,
+      3508,
+      3100,
+      3078
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3057_fighter_t2_sheen.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3057_fighter_t2_sheen.png",
     "simpleDescription": "Grants a bonus to next attack after spell cast",
     "nicknames": [
       "jimmy neutron"
@@ -28594,8 +28594,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      223046,
-      6662
+      3211,
+      3067
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -28603,7 +28603,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3065_tank_t3_spiritvisage.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3065_tank_t3_spiritvisage.png",
     "simpleDescription": "Increases Health and healing effects",
     "nicknames": [
       "sv"
@@ -28983,16 +28983,16 @@
       1028
     ],
     "buildsInto": [
-      223165,
-      223031,
-      223091
+      4401,
+      3181,
+      3742
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3066_tank_t3_wingedmoonplate.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3066_tank_t3_wingedmoonplate.png",
     "simpleDescription": null,
     "nicknames": [
       "chaps",
@@ -29376,34 +29376,34 @@
       1028
     ],
     "buildsInto": [
-      6692,
-      226616,
-      226653,
-      226656,
+      3084,
+      6632,
+      6662,
+      6665,
       2065,
-      223177,
-      6667,
-      7021,
-      226609,
-      6657,
-      4629,
-      6676,
-      6691,
-      224645,
-      223006,
-      224401,
-      226630,
-      226333,
-      226655,
-      228001,
-      228020
+      4403,
+      3071,
+      3119,
+      6631,
+      3065,
+      3003,
+      3078,
+      3083,
+      6617,
+      3161,
+      4644,
+      6656,
+      6630,
+      6664,
+      8001,
+      8020
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3067_tank_t1_kindlegem.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3067_tank_t1_kindlegem.png",
     "simpleDescription": "Increases Health and Cooldown Reduction",
     "nicknames": [],
     "passives": [],
@@ -29604,7 +29604,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      226632,
+      6660,
       1031
     ],
     "buildsInto": [],
@@ -29613,7 +29613,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3068_tank_t4_sunfireaegis.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3068_tank_t4_sunfireaegis.png",
     "simpleDescription": "High armor. Constantly deals damage to nearby enemies. Immobilize enemies to release a wave of damaging flame",
     "nicknames": [
       "funfire",
@@ -29992,16 +29992,16 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      4629,
-      4630,
-      7021
+      3003,
+      3004,
+      3119
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3070_all_t1_tearofthegoddess.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3070_all_t1_tearofthegoddess.png",
     "simpleDescription": "Increases maximum Mana as Mana is spent",
     "nicknames": [],
     "passives": [
@@ -30555,8 +30555,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7027,
-      6662,
+      3133,
+      3067,
       1036
     ],
     "buildsInto": [],
@@ -30565,7 +30565,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3071_fighter_t3_blackcleaver.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3071_fighter_t3_blackcleaver.png",
     "simpleDescription": "Dealing physical damage to enemy champions reduces their Armor",
     "nicknames": [
       "bc"
@@ -31133,7 +31133,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3072_fighter_t3_bloodthirster.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3072_fighter_t3_bloodthirster.png",
     "simpleDescription": "Grants Attack Damage, Life Steal and Life Steal now overheals",
     "nicknames": [
       "bt",
@@ -31511,9 +31511,9 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6675,
+      3077,
       1053,
-      7027
+      3133
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -31521,7 +31521,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3074_fighter_t3_ravenoushydra.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3074_fighter_t3_ravenoushydra.png",
     "simpleDescription": "Melee attacks hit nearby enemies, dealing damage and restoring Health",
     "nicknames": [
       "rav hydra"
@@ -32077,7 +32077,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6673,
+      3076,
       1011
     ],
     "buildsInto": [],
@@ -32086,7 +32086,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3075_tank_t3_thornmail.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3075_tank_t3_thornmail.png",
     "simpleDescription": null,
     "nicknames": [
       "grievous wounds"
@@ -32467,14 +32467,14 @@
       1029
     ],
     "buildsInto": [
-      6672
+      3075
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3076_tank_t2_bramblevest.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3076_tank_t2_bramblevest.png",
     "simpleDescription": null,
     "nicknames": [
       "grievous wounds"
@@ -32854,15 +32854,15 @@
       1037
     ],
     "buildsInto": [
-      6671,
-      223094
+      3074,
+      3748
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3077_fighter_t2_tiamat.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3077_fighter_t2_tiamat.png",
     "simpleDescription": "Melee attacks hit nearby enemies",
     "nicknames": [],
     "passives": [
@@ -33239,19 +33239,19 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      6656,
-      6653,
-      6662
+      3057,
+      3051,
+      3067
     ],
     "buildsInto": [
-      227017
+      7018
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3078_fighter_t4_trinityforce.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3078_fighter_t4_trinityforce.png",
     "simpleDescription": "Tons of Damage",
     "nicknames": [
       "triforce",
@@ -33992,15 +33992,15 @@
       1029
     ],
     "buildsInto": [
-      7013,
-      7033
+      3110,
+      3143
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3082_tank_t2_wardensmail.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3082_tank_t2_wardensmail.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -34376,8 +34376,8 @@
     ],
     "buildsFrom": [
       1011,
-      6662,
-      223095
+      3067,
+      3801
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -34385,7 +34385,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3083_tank_t3_warmogs.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3083_tank_t3_warmogs.png",
     "simpleDescription": "Grants massive Health and Health Regen",
     "nicknames": [],
     "passives": [
@@ -34939,18 +34939,18 @@
     ],
     "buildsFrom": [
       1011,
-      6662,
-      223095
+      3067,
+      3801
     ],
     "buildsInto": [
-      227024
+      7025
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3084_tank_t4_heartsteel.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3084_tank_t4_heartsteel.png",
     "simpleDescription": "Restores Health on kill or assist",
     "nicknames": [],
     "passives": [
@@ -35505,7 +35505,7 @@
     ],
     "buildsFrom": [
       1043,
-      6694
+      3086
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -35513,7 +35513,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3085_marksman_t3_runaans.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3085_marksman_t3_runaans.png",
     "simpleDescription": "Ranged attacks fire two bolts at nearby enemies",
     "nicknames": [],
     "passives": [
@@ -35521,7 +35521,7 @@
         "unique": true,
         "mythic": false,
         "name": "Peck",
-        "effects": "Basic attacks deal {{as|15 '''bonus''' magic damage}} [[on-hit]].",
+        "effects": "Basic attacks deal {{as|30 '''bonus''' magic damage}} [[on-hit]].",
         "range": null,
         "cooldown": null,
         "stats": {
@@ -35699,7 +35699,7 @@
         "unique": true,
         "mythic": false,
         "name": "Wind's Fury",
-        "effects": "Basic attacks [[on-attack]] fire additional bolts at up to 2 enemies {{tt|in front of you|180{{degree}}}}, each dealing {{as|50% AD}} {{as|physical damage}}. Bolts apply {{tip|on-hit}} effects at 100% effectiveness and are affected by {{tip|critical strike}} modifiers.",
+        "effects": "Basic attacks [[on-attack]] fire additional bolts at up to 2 enemies {{tt|in front of you|180{{degree}}}}, each dealing {{as|40% AD}} {{as|physical damage}}. Bolts apply {{tip|on-hit}} effects at 100% effectiveness and are affected by {{tip|critical strike}} modifiers.",
         "range": null,
         "cooldown": null,
         "stats": {
@@ -36072,18 +36072,18 @@
       1042
     ],
     "buildsInto": [
-      226664,
-      6693,
-      223177,
-      6630,
-      7001
+      6671,
+      3085,
+      4403,
+      3046,
+      3094
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3086_fighter_t2_zeal.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3086_fighter_t2_zeal.png",
     "simpleDescription": "Slight bonuses to Critical Strike Chance, Move Speed and Attack Speed",
     "nicknames": [],
     "passives": [],
@@ -36280,7 +36280,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      226662,
+      6670,
       1018,
       2015
     ],
@@ -36290,7 +36290,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3087_statikk_shiv.srt13_10.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3087_statikk_shiv.srt13_10.png",
     "simpleDescription": "Movement builds charges that release chain lightning on basic attack",
     "nicknames": [],
     "passives": [
@@ -36853,7 +36853,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3089_mage_t3_deathcap.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3089_mage_t3_deathcap.png",
     "simpleDescription": "Massively increases Ability Power",
     "nicknames": [
       "banksys",
@@ -37233,7 +37233,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6653,
+      3051,
       1033,
       1043
     ],
@@ -37243,7 +37243,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3091_fighter_t3_witsend.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3091_fighter_t3_witsend.png",
     "simpleDescription": "Resist magic damage and claw your way back to life.",
     "nicknames": [],
     "passives": [
@@ -37621,7 +37621,7 @@
     ],
     "buildsFrom": [
       1036,
-      6694,
+      3086,
       2015
     ],
     "buildsInto": [],
@@ -37630,7 +37630,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3094_marksman_t3_rapidfirehandcannon.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3094_marksman_t3_rapidfirehandcannon.png",
     "simpleDescription": "Movement builds charges that release a sieging fire attack on release",
     "nicknames": [
       "canon",
@@ -38189,7 +38189,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      226662,
+      6670,
       1018,
       2015
     ],
@@ -38199,7 +38199,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3095_windblade.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3095_windblade.png",
     "simpleDescription": "Tremendously empower other Energized effects.",
     "nicknames": [
       "Windblade"
@@ -38755,9 +38755,9 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6656,
-      7016,
-      7011
+      3057,
+      3113,
+      3108
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -38765,7 +38765,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3100_mage_t3_lichbane.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3100_mage_t3_lichbane.png",
     "simpleDescription": "Grants a bonus to next attack after spell cast",
     "nicknames": [],
     "passives": [
@@ -39141,8 +39141,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7011,
-      223190
+      3108,
+      4632
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -39150,7 +39150,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3102_mage_t3_bansheesveil.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3102_mage_t3_bansheesveil.png",
     "simpleDescription": "Periodically blocks enemy abilities",
     "nicknames": [
       "bv",
@@ -39532,17 +39532,17 @@
       1029
     ],
     "buildsInto": [
-      223042,
-      226656,
-      223177,
-      226657
+      3193,
+      6665,
+      4403,
+      6667
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png",
     "simpleDescription": "Grants Armor and Magic Resistance",
     "nicknames": [],
     "passives": [],
@@ -39739,8 +39739,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      4637,
-      7017
+      3012,
+      3114
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -39748,7 +39748,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3107_enchanter_t3_redemption.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3107_enchanter_t3_redemption.png",
     "simpleDescription": "Activate to heal allies and damage enemies in an area",
     "nicknames": [],
     "passives": [
@@ -40134,22 +40134,22 @@
       1052
     ],
     "buildsInto": [
-      7006,
-      223184,
-      226617,
-      7018,
-      7005,
-      223003,
-      223158,
-      223181,
-      223504
+      3102,
+      4629,
+      6653,
+      3115,
+      3100,
+      3157,
+      4005,
+      4628,
+      4636
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3108_mage_t2_fiendishcodex.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3108_mage_t2_fiendishcodex.png",
     "simpleDescription": "Increases Ability Power and Cooldown Reduction",
     "nicknames": [
       "book"
@@ -40347,8 +40347,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      4641,
-      223095
+      3023,
+      3801
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -40356,7 +40356,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3109_tank_t3_knightsvow.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3109_tank_t3_knightsvow.png",
     "simpleDescription": "Partner with an ally to protect each other",
     "nicknames": [
       "kv"
@@ -40743,8 +40743,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6677,
-      4642
+      3082,
+      3024
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -40752,7 +40752,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3110_tank_t3_frozenheart.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3110_tank_t3_frozenheart.png",
     "simpleDescription": "Massively increases Armor and slows enemy basic attacks",
     "nicknames": [
       "fh"
@@ -41316,7 +41316,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3111_class_t2_mercurystreads.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3111_class_t2_mercurystreads.png",
     "simpleDescription": "Increases Move Speed and reduces duration of disabling effects",
     "nicknames": [
       "boots",
@@ -41519,7 +41519,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3112_aram_t1_guardiansorb.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3112_aram_t1_guardiansorb.png",
     "simpleDescription": "Good starting item for mages",
     "nicknames": [],
     "passives": [
@@ -42078,17 +42078,17 @@
       1052
     ],
     "buildsInto": [
-      223184,
-      224644,
-      7005,
-      223078
+      4629,
+      6616,
+      3100,
+      3504
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3113_mage_t2_aetherwisp.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3113_mage_t2_aetherwisp.png",
     "simpleDescription": "Increases Ability Power and Move Speed",
     "nicknames": [
       "spooky ghost"
@@ -42469,18 +42469,18 @@
       1004
     ],
     "buildsInto": [
-      224644,
-      4636,
-      7010,
-      223047,
-      223078
+      6616,
+      3011,
+      3107,
+      3222,
+      3504
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3114_mage_t2_forbiddenidol.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3114_mage_t2_forbiddenidol.png",
     "simpleDescription": "Increases Heal and Shield Power, Mana Regeneration, and Cooldown Reduction",
     "nicknames": [],
     "passives": [],
@@ -42678,7 +42678,7 @@
     "buildsFrom": [
       1043,
       1026,
-      7011
+      3108
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -42686,7 +42686,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3115_mage_t3_nashorstooth.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3115_mage_t3_nashorstooth.png",
     "simpleDescription": "Increases Attack Speed, Ability Power, and Cooldown Reduction",
     "nicknames": [
       "nashors"
@@ -43074,7 +43074,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3116_mage_t3_rylajscrystalscepter.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3116_mage_t3_rylajscrystalscepter.png",
     "simpleDescription": "Abilities slow enemies",
     "nicknames": [
       "rylais"
@@ -43459,7 +43459,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3117_class_t2_bootsofmobility.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3117_class_t2_bootsofmobility.png",
     "simpleDescription": "Greatly enhances Move Speed when out of combat",
     "nicknames": [
       "boots",
@@ -43835,8 +43835,8 @@
     "tier": 3,
     "rank": [],
     "buildsFrom": [
-      6665,
-      6662,
+      3070,
+      3067,
       1028
     ],
     "buildsInto": [],
@@ -43845,7 +43845,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3119_wintersapproach.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3119_wintersapproach.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -44581,7 +44581,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3121_fimbulwinter.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3121_fimbulwinter.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -45138,15 +45138,15 @@
       1036
     ],
     "buildsInto": [
-      224637,
-      4645
+      6609,
+      3033
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3123_fighter_t2_executionerscalling.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3123_fighter_t2_executionerscalling.png",
     "simpleDescription": "Overcomes enemies with high health gain",
     "nicknames": [
       "grievous"
@@ -45526,18 +45526,18 @@
     ],
     "buildsFrom": [
       1052,
-      226673,
+      6677,
       1037
     ],
     "buildsInto": [
-      227029
+      7030
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3124_marksman_t3_guinsoosrageblade.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3124_marksman_t3_guinsoosrageblade.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -46274,29 +46274,29 @@
       1036
     ],
     "buildsInto": [
-      226616,
-      224637,
-      7032,
-      223084,
-      6667,
-      4630,
-      226676,
-      226671,
-      6671,
-      223006,
-      224636,
-      226333,
-      226675,
-      226691,
-      226692,
-      226694
+      6632,
+      6609,
+      3142,
+      3508,
+      3071,
+      3004,
+      6692,
+      6675,
+      3074,
+      3161,
+      6333,
+      6630,
+      6691,
+      6693,
+      6694,
+      6696
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png",
     "simpleDescription": "Attack Damage and Cooldown Reduction",
     "nicknames": [],
     "passives": [],
@@ -46498,22 +46498,22 @@
       1036
     ],
     "buildsInto": [
-      7032,
-      226693,
-      223026,
-      226676,
-      223107,
-      226675,
-      226672,
-      226691,
-      226694
+      3142,
+      6695,
+      3179,
+      6692,
+      3814,
+      6691,
+      6676,
+      6693,
+      6696
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3134_assassin_t2_serrateddirk.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3134_assassin_t2_serrateddirk.png",
     "simpleDescription": "Increases Attack Damage and Lethality",
     "nicknames": [],
     "passives": [
@@ -46889,7 +46889,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      223185,
+      4630,
       1026
     ],
     "buildsInto": [],
@@ -46898,7 +46898,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3135_mage_t3_voidstaff.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3135_mage_t3_voidstaff.png",
     "simpleDescription": "Increases magic damage",
     "nicknames": [],
     "passives": [],
@@ -47094,7 +47094,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7031,
+      3140,
       1018,
       1037
     ],
@@ -47104,7 +47104,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3139_marksman_t3_mercurialscimitar.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3139_marksman_t3_mercurialscimitar.png",
     "simpleDescription": "Activate to remove all crowd control debuffs and grant massive Move Speed",
     "nicknames": [
       "merc scim"
@@ -47314,15 +47314,15 @@
       1033
     ],
     "buildsInto": [
-      224633,
-      7030
+      6035,
+      3139
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3140_marksman_t2_quicksilversash.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3140_marksman_t2_quicksilversash.png",
     "simpleDescription": "Activate to remove all crowd control debuffs",
     "nicknames": [
       "qss"
@@ -47530,18 +47530,18 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      7028,
-      7027
+      3134,
+      3133
     ],
     "buildsInto": [
-      227028
+      7029
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3142_assassin_t3_youmuusghostblade.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3142_assassin_t3_youmuusghostblade.png",
     "simpleDescription": "Activate to greatly increase Move Speed",
     "nicknames": [],
     "passives": [
@@ -48103,7 +48103,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6677,
+      3082,
       1011
     ],
     "buildsInto": [],
@@ -48112,7 +48112,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3143_tank_t3_randuinsomen.pie_c_12_23.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3143_tank_t3_randuinsomen.pie_c_12_23.png",
     "simpleDescription": "Greatly increases defenses, activate to slow nearby enemies",
     "nicknames": [],
     "passives": [
@@ -48677,18 +48677,18 @@
       1028
     ],
     "buildsInto": [
-      223009,
-      8020,
-      223181,
-      223504,
-      224628
+      3165,
+      3152,
+      4628,
+      4636,
+      4645
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3145_mage_t2_hextechalternator.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3145_mage_t2_hextechalternator.png",
     "simpleDescription": "Increases Ability Power. Deal bonus magic damage on attack periodically.",
     "nicknames": [
       "revolver"
@@ -49071,7 +49071,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3146_hextech_gunblade.pie_c_12_23.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3146_hextech_gunblade.pie_c_12_23.png",
     "simpleDescription": "Increases Attack Damage and Ability Power, activate to slow a target",
     "nicknames": [],
     "passives": [],
@@ -49086,7 +49086,7 @@
     ],
     "stats": {
       "abilityPower": {
-        "flat": 70.0,
+        "flat": 80.0,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0,
@@ -49239,7 +49239,7 @@
       },
       "omnivamp": {
         "flat": 0.0,
-        "percent": 15.0,
+        "percent": 20.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0,
         "percentBase": 0.0,
@@ -49276,18 +49276,18 @@
     ],
     "buildsFrom": [
       1026,
-      7050,
+      3145,
       1052
     ],
     "buildsInto": [
-      227010
+      7011
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3152_mage_t4_hextechrocketbelt.pie_c_12_23.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3152_mage_t4_hextechrocketbelt.pie_c_12_23.png",
     "simpleDescription": "Activate to dash forward and unleash a fiery explosion",
     "nicknames": [
       "protobelt",
@@ -49685,7 +49685,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3153_fighter_t3_bladeoftheruinedking.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3153_fighter_t3_bladeoftheruinedking.png",
     "simpleDescription": "Deals damage based on target's Health, can steal Move Speed",
     "nicknames": [
       "brk",
@@ -50250,14 +50250,14 @@
       1033
     ],
     "buildsInto": [
-      223001
+      3156
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3155_fighter_t2_hexdrinker.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3155_fighter_t2_hexdrinker.png",
     "simpleDescription": "Increases Attack Damage and Magic Resist",
     "nicknames": [],
     "passives": [
@@ -50635,7 +50635,7 @@
     ],
     "buildsFrom": [
       1037,
-      222065,
+      3155,
       1036
     ],
     "buildsInto": [],
@@ -50644,7 +50644,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3156_fighter_t3_mawofmalmortius.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3156_fighter_t3_mawofmalmortius.png",
     "simpleDescription": "Grants bonus Attack Damage when Health is low",
     "nicknames": [],
     "passives": [
@@ -51199,9 +51199,9 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      223040,
-      7011,
-      4004
+      3191,
+      3108,
+      2420
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -51209,7 +51209,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3157_mage_t3_zhonyashourglass.pie_c_12_23.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3157_mage_t3_zhonyashourglass.pie_c_12_23.png",
     "simpleDescription": "Activate to become invincible but unable to take actions",
     "nicknames": [
       "zhg",
@@ -51425,7 +51425,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png",
     "simpleDescription": "Increases Move Speed and Cooldown Reduction",
     "nicknames": [],
     "passives": [],
@@ -51619,9 +51619,9 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7027,
+      3133,
       1038,
-      6662
+      3067
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -51629,7 +51629,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3161_fighter_t3_spearofshojin.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3161_fighter_t3_spearofshojin.png",
     "simpleDescription": "Reduce damage taken from champions by a flat amount. Attack while near multiple enemy champions to increase this amount for a short time.",
     "nicknames": [],
     "passives": [
@@ -52184,8 +52184,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      223156,
-      7050,
+      3916,
+      3145,
       1052
     ],
     "buildsInto": [],
@@ -52194,7 +52194,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3165_mage_t3_morellonomicon.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3165_mage_t3_morellonomicon.png",
     "simpleDescription": "Increases magic damage",
     "nicknames": [
       "nmst",
@@ -52581,7 +52581,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3172_zephyr.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3172_zephyr.png",
     "simpleDescription": "Mobility and Tenacity",
     "nicknames": [],
     "passives": [
@@ -52962,7 +52962,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3177_aram_t1_guardiansblade.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3177_aram_t1_guardiansblade.png",
     "simpleDescription": "Good starting item for attackers",
     "nicknames": [],
     "passives": [
@@ -53341,7 +53341,7 @@
     ],
     "buildsFrom": [
       1036,
-      7028,
+      3134,
       1036
     ],
     "buildsInto": [],
@@ -53350,7 +53350,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3179_assassin_t3_umbralglaive.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3179_assassin_t3_umbralglaive.png",
     "simpleDescription": "Provides trap and ward detection periodically",
     "nicknames": [],
     "passives": [
@@ -53905,8 +53905,8 @@
     ],
     "buildsFrom": [
       1037,
-      6620,
-      6660
+      3044,
+      3066
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -53914,7 +53914,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3181_hullbreaker.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3181_hullbreaker.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -54295,7 +54295,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3177_aram_t1_guardianshammer.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3177_aram_t1_guardianshammer.png",
     "simpleDescription": "Good starting item for attackers",
     "nicknames": [],
     "passives": [
@@ -54672,18 +54672,18 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      4641,
+      3023,
       1033
     ],
     "buildsInto": [
-      227018
+      7019
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3190_enchanter_t4_locketofironsolari.pie_c_12_23.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3190_enchanter_t4_locketofironsolari.pie_c_12_23.png",
     "simpleDescription": "Activate to shield nearby allies from damage",
     "nicknames": [],
     "passives": [
@@ -55249,14 +55249,14 @@
       1029
     ],
     "buildsInto": [
-      223003
+      3157
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3191_battlemage_t2_seekersarmguard.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3191_battlemage_t2_seekersarmguard.png",
     "simpleDescription": "Increases Armor and Ability Power",
     "nicknames": [],
     "passives": [
@@ -55632,7 +55632,7 @@
     ],
     "buildsFrom": [
       1029,
-      7009,
+      3105,
       1033
     ],
     "buildsInto": [],
@@ -55641,7 +55641,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3193_tank_t3_gargoylestoneplate.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3193_tank_t3_gargoylestoneplate.png",
     "simpleDescription": "Greatly increases defense near multiple enemies.",
     "nicknames": [],
     "passives": [
@@ -56028,14 +56028,14 @@
       1033
     ],
     "buildsInto": [
-      6657
+      3065
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3211_tank_t2_spectrescowl.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3211_tank_t2_spectrescowl.png",
     "simpleDescription": "Improves defense and grants regeneration upon being damaged",
     "nicknames": [
       "hat",
@@ -56413,8 +56413,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      4637,
-      7017
+      3012,
+      3114
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -56422,7 +56422,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3222_enchanter_t3_mikaelsblessing.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3222_enchanter_t3_mikaelsblessing.png",
     "simpleDescription": "Activate to remove all disabling effects from an allied champion",
     "nicknames": [
       "crucible",
@@ -56814,7 +56814,7 @@
     "removed": false,
     "requiredChampion": "FiddleSticks",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/fiddlestickstrinket1.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/fiddlestickstrinket1.png",
     "simpleDescription": "Periodically place a Stealth Ward",
     "nicknames": [],
     "passives": [],
@@ -57022,7 +57022,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3340_class_t1_wardingtotem.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3340_class_t1_wardingtotem.png",
     "simpleDescription": "Periodically place a Stealth Ward",
     "nicknames": [
       "yellow",
@@ -57234,7 +57234,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3363_class_t1_farsightalteration.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3363_class_t1_farsightalteration.png",
     "simpleDescription": "Grants increased range and reveals the targetted area",
     "nicknames": [
       "blue",
@@ -57446,7 +57446,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3364_class_t1_oracleslens.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3364_class_t1_oracleslens.png",
     "simpleDescription": "Disables nearby invisible wards and traps for a duration",
     "nicknames": [
       "red",
@@ -57660,7 +57660,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/pykegold.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/pykegold.png",
     "simpleDescription": "",
     "nicknames": [],
     "passives": [],
@@ -57860,7 +57860,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3430_rite_of_ruin.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3430_rite_of_ruin.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -58413,8 +58413,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7016,
-      7017
+      3113,
+      3114
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -58422,7 +58422,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3504_enchanter_t3_ardentcenser.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3504_enchanter_t3_ardentcenser.png",
     "simpleDescription": "Shield and heal effects on other units grant both of you Attack Speed and their attacks deal additional on-hit magic damage.",
     "nicknames": [
       "censor"
@@ -58801,8 +58801,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6656,
-      7027,
+      3057,
+      3133,
       1018
     ],
     "buildsInto": [],
@@ -58811,7 +58811,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3508_marksman_t3_essencereaver.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3508_marksman_t3_essencereaver.png",
     "simpleDescription": null,
     "nicknames": [
       "er",
@@ -59197,7 +59197,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3513_voideye.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3513_voideye.png",
     "simpleDescription": "Eye of the Herald - a Gift of the Void.",
     "nicknames": [],
     "passives": [
@@ -59576,7 +59576,7 @@
     "removed": false,
     "requiredChampion": "Kalista",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3599_kalistapassiveitem.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3599_kalistapassiveitem.png",
     "simpleDescription": "Kalista's spear that binds an Oathsworn Ally.",
     "nicknames": [],
     "passives": [],
@@ -59778,7 +59778,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6660,
+      3066,
       1028,
       1031
     ],
@@ -59788,7 +59788,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3742_tank_t3_deadmansplate.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3742_tank_t3_deadmansplate.png",
     "simpleDescription": "Build momentum as you move around then smash into enemies.",
     "nicknames": [
       "dmp",
@@ -60169,7 +60169,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6675,
+      3077,
       1028,
       1011
     ],
@@ -60179,7 +60179,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3748_fighter_t3_titanichydra.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3748_fighter_t3_titanichydra.png",
     "simpleDescription": "Deals area of effect damage based on owner's health",
     "nicknames": [
       "beefer",
@@ -60741,16 +60741,16 @@
       1006
     ],
     "buildsInto": [
-      6692,
-      7012,
-      6691
+      3084,
+      3109,
+      3083
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3801_tank_t2_crystallinebracer.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3801_tank_t2_crystallinebracer.png",
     "simpleDescription": "Grants Health and Health Regen",
     "nicknames": [],
     "passives": [],
@@ -60951,17 +60951,17 @@
       1027
     ],
     "buildsInto": [
-      226617,
-      226620,
-      224401,
-      226630
+      6653,
+      6655,
+      4644,
+      6656
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3802_mage_tier2_lostchapter.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3802_mage_tier2_lostchapter.png",
     "simpleDescription": "Restores Mana upon levelling up.",
     "nicknames": [
       "book"
@@ -61342,14 +61342,14 @@
       1027
     ],
     "buildsInto": [
-      226631
+      6657
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3803_mage_t2_catalystofaeons.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3803_mage_t2_catalystofaeons.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -61725,7 +61725,7 @@
     ],
     "buildsFrom": [
       1036,
-      7028,
+      3134,
       1028
     ],
     "buildsInto": [],
@@ -61734,7 +61734,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3814_assassin_t3_edgeofnight.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3814_assassin_t3_edgeofnight.png",
     "simpleDescription": "Periodically blocks enemy abilities",
     "nicknames": [
       "eon",
@@ -62119,7 +62119,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3850_mage_t1_spellthiefsedge.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3850_mage_t1_spellthiefsedge.png",
     "simpleDescription": "Gain gold and upgrade by damaging enemy champions",
     "nicknames": [
       "Support",
@@ -62683,7 +62683,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3851_mage_t2_frostfang.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3851_mage_t2_frostfang.png",
     "simpleDescription": null,
     "nicknames": [
       "Support",
@@ -63257,7 +63257,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3853_mage_t3_shardoftrueice.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3853_mage_t3_shardoftrueice.png",
     "simpleDescription": null,
     "nicknames": [
       "Support",
@@ -63653,7 +63653,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3854_tank_t1_petriciteshoulderguard.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3854_tank_t1_petriciteshoulderguard.png",
     "simpleDescription": "Gain gold and upgrade by executing minions alongside allies",
     "nicknames": [
       "Support",
@@ -64217,7 +64217,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3855_tank_t2_runesteelspaulders.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3855_tank_t2_runesteelspaulders.png",
     "simpleDescription": null,
     "nicknames": [
       "Support",
@@ -64791,7 +64791,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3857_tank_t3_pauldronsofwhiterock.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3857_tank_t3_pauldronsofwhiterock.png",
     "simpleDescription": null,
     "nicknames": [
       "Support",
@@ -65187,7 +65187,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3858_tank_t1_relicshield.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3858_tank_t1_relicshield.png",
     "simpleDescription": "Gain gold and upgrade by executing minions alongside allies",
     "nicknames": [
       "Support",
@@ -65751,7 +65751,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3859_tank_t2_targonsbucker.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3859_tank_t2_targonsbucker.png",
     "simpleDescription": null,
     "nicknames": [
       "Support",
@@ -66325,7 +66325,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3860_tank_t3_bulwarkofthemountain.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3860_tank_t3_bulwarkofthemountain.png",
     "simpleDescription": null,
     "nicknames": [
       "Support",
@@ -66721,7 +66721,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3862_marksman_t1_spectralsickle.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3862_marksman_t1_spectralsickle.png",
     "simpleDescription": "Gain gold and upgrade by damaging enemy champions",
     "nicknames": [
       "Support",
@@ -67284,7 +67284,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3863_marksman_t2_harrowingcrescent.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3863_marksman_t2_harrowingcrescent.png",
     "simpleDescription": null,
     "nicknames": [
       "Support",
@@ -67857,7 +67857,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3864_marksman_t3_blackmistscythe.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3864_marksman_t3_blackmistscythe.png",
     "simpleDescription": null,
     "nicknames": [
       "Support",
@@ -68250,7 +68250,7 @@
     "removed": false,
     "requiredChampion": "Gangplank",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3901_champ_t0_fireatwillcircle.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3901_champ_t0_fireatwillcircle.png",
     "simpleDescription": "Cannon Barrage fires at an increasing rate over time (additional 6 waves over the duration).",
     "nicknames": [],
     "passives": [
@@ -68627,7 +68627,7 @@
     "removed": false,
     "requiredChampion": "Gangplank",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3902_champ_t0_deathsdaughtercircle.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3902_champ_t0_deathsdaughtercircle.png",
     "simpleDescription": "<mainText>Cannon Barrage additionally fires a mega-cannonball at the center of the Barrage, dealing <trueDamage>300% true damage</trueDamage> and <status>Slowing</status> them by 60% for 1.5 seconds.</mainText>",
     "nicknames": [],
     "passives": [
@@ -69004,7 +69004,7 @@
     "removed": false,
     "requiredChampion": "Gangplank",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3903_champ_t0_raisemoralecircle.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3903_champ_t0_raisemoralecircle.png",
     "simpleDescription": "Allies in the Cannon Barrage gain <speed>30% Move Speed</speed> for 2 seconds.",
     "nicknames": [],
     "passives": [
@@ -69380,15 +69380,15 @@
       1052
     ],
     "buildsInto": [
-      223009,
-      4636
+      3165,
+      3011
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3916_mage_t2_oblivionorb.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3916_mage_t2_oblivionorb.png",
     "simpleDescription": "Increases magic damage",
     "nicknames": [
       "grievous"
@@ -69772,7 +69772,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4004_assassin_t3_spectralcutlass.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4004_assassin_t3_spectralcutlass.png",
     "simpleDescription": "Marks the ground, and returns you there after a few moments",
     "nicknames": [],
     "passives": [],
@@ -69976,8 +69976,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7011,
-      223814
+      3108,
+      4642
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -69985,7 +69985,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4005_enchanter_t4_imperialmandate.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4005_enchanter_t4_imperialmandate.png",
     "simpleDescription": "Defer damage until later.",
     "nicknames": [
       "banner of command",
@@ -70366,7 +70366,7 @@
     "buildsFrom": [
       1057,
       1028,
-      6660
+      3066
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -70374,7 +70374,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4401_tank_t3_forceofnature.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4401_tank_t3_forceofnature.png",
     "simpleDescription": "Move Speed, Magic Resist, and max Health Regeneration",
     "nicknames": [
       "fon"
@@ -70929,8 +70929,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7050,
-      7011
+      3145,
+      3108
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -70938,7 +70938,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4628_mage_t3_horizonfocus.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4628_mage_t3_horizonfocus.png",
     "simpleDescription": "Immobilizing a champion causes lightning to strike them",
     "nicknames": [
       "snipe",
@@ -71316,8 +71316,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7011,
-      7016,
+      3108,
+      3113,
       1052
     ],
     "buildsInto": [],
@@ -71326,7 +71326,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4629_mage_t3_cosmicdrive.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4629_mage_t3_cosmicdrive.png",
     "simpleDescription": "Massive amounts of Cooldown Reduction",
     "nicknames": [
       "hat"
@@ -71707,14 +71707,14 @@
       1052
     ],
     "buildsInto": [
-      7029
+      3135
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4630_mage_t2_voidcrystal.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4630_mage_t2_voidcrystal.png",
     "simpleDescription": null,
     "nicknames": [
       "purple"
@@ -71916,14 +71916,14 @@
       1052
     ],
     "buildsInto": [
-      7006
+      3102
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4632_tank_t2_verdantbarrier.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4632_tank_t2_verdantbarrier.png",
     "simpleDescription": null,
     "nicknames": [
       "necklace"
@@ -72300,18 +72300,18 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      223222,
+      4635,
       1026
     ],
     "buildsInto": [
-      227006
+      7009
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4633_mage_t4_riftmaker.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4633_mage_t4_riftmaker.png",
     "simpleDescription": null,
     "nicknames": [
       "velkoz"
@@ -72871,14 +72871,14 @@
       1052
     ],
     "buildsInto": [
-      223193
+      4633
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4635_mage_t2_leechingleer.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4635_mage_t2_leechingleer.png",
     "simpleDescription": null,
     "nicknames": [
       "wota",
@@ -73077,19 +73077,19 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      7050,
-      7011,
+      3145,
+      3108,
       1052
     ],
     "buildsInto": [
-      227009
+      7010
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4636_mage_t4_nightharvester.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4636_mage_t4_nightharvester.png",
     "simpleDescription": null,
     "nicknames": [
       "dark",
@@ -73100,7 +73100,7 @@
         "unique": true,
         "mythic": false,
         "name": "Soulrend",
-        "effects": "Damaging an enemy champion deals {{as|125 {{as|(+ 15% AP)}} '''bonus''' magic damage|magic damage}} and grants you {{as|25% '''bonus''' movement speed}} for {{fd|1.5}} seconds, with the duration extending on subsequent triggers.",
+        "effects": "Damaging an enemy champion with a basic attack, ability or pet damage deals {{as|125 {{as|(+ 15% AP)}} '''bonus''' magic damage|magic damage}} and grants you {{as|25% '''bonus''' movement speed}} for {{fd|1.5}} seconds, with the duration extending on subsequent triggers.",
         "range": null,
         "cooldown": "30 (per champion)",
         "stats": {
@@ -73656,7 +73656,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4637_mage_t3_demonicembrace.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4637_mage_t3_demonicembrace.png",
     "simpleDescription": null,
     "nicknames": [
       "helmet"
@@ -74212,14 +74212,14 @@
     ],
     "buildsFrom": [],
     "buildsInto": [
-      224005
+      4643
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4638_enchanter_t3_watchfulsightstone.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4638_enchanter_t3_watchfulsightstone.png",
     "simpleDescription": null,
     "nicknames": [
       "Support",
@@ -74780,16 +74780,16 @@
     ],
     "buildsInto": [
       2065,
-      226035,
-      224645,
-      223158
+      6620,
+      6617,
+      4005
     ],
     "specialRecipe": 0,
     "noEffects": true,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4642_enchanter_t2_bandleglassmirror.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4642_enchanter_t2_bandleglassmirror.png",
     "simpleDescription": null,
     "nicknames": [
       "yordle"
@@ -74987,7 +74987,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      223742
+      4638
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -74995,7 +74995,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4643_enchanter_t3_vigilantsightstone.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4643_enchanter_t3_vigilantsightstone.png",
     "simpleDescription": null,
     "nicknames": [
       "Support",
@@ -75730,19 +75730,19 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      6662,
-      223100,
+      3067,
+      3802,
       1052
     ],
     "buildsInto": [
-      227023
+      7024
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4644_crown.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4644_crown.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -76474,7 +76474,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7050,
+      3145,
       1058
     ],
     "buildsInto": [],
@@ -76483,7 +76483,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4645_shadowflame.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4645_shadowflame.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -76861,15 +76861,15 @@
       1037
     ],
     "buildsInto": [
-      226609,
-      226333
+      6631,
+      6630
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6029_fighter_t2_ironspikewhip.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6029_fighter_t2_ironspikewhip.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [],
@@ -77073,7 +77073,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7031,
+      3140,
       1037,
       1028
     ],
@@ -77083,7 +77083,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6035_fighter_t3_silvermeredawn.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6035_fighter_t3_silvermeredawn.png",
     "simpleDescription": null,
     "nicknames": [
       "qss",
@@ -77295,7 +77295,7 @@
     "buildsFrom": [
       1037,
       1031,
-      7027
+      3133
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -77303,7 +77303,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6333_fighter_t3_deathsdance.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6333_fighter_t3_deathsdance.png",
     "simpleDescription": null,
     "nicknames": [
       "dd",
@@ -77859,9 +77859,9 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7024,
+      3123,
       1028,
-      7027
+      3133
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -77869,7 +77869,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6609_fighter_t3_chempunkchainsword.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6609_fighter_t3_chempunkchainsword.png",
     "simpleDescription": null,
     "nicknames": [
       "grievous"
@@ -78247,8 +78247,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7016,
-      7017
+      3113,
+      3114
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -78256,7 +78256,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3744_enchanter_t3_staffofflowingwater.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3744_enchanter_t3_staffofflowingwater.png",
     "simpleDescription": "Your heals and shields reduce crowd control and grant Move Speed",
     "nicknames": [
       "nami"
@@ -78633,18 +78633,18 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      6662,
-      223814
+      3067,
+      4642
     ],
     "buildsInto": [
-      227020
+      7021
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6617_enchanter_t4_moonstonerenewer.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6617_enchanter_t4_moonstonerenewer.png",
     "simpleDescription": "Your heals and shields cool down faster and have greater effect on low health allies",
     "nicknames": [
       "yuumi"
@@ -79199,18 +79199,18 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      4637,
-      223814
+      3012,
+      4642
     ],
     "buildsInto": [
-      227032
+      7033
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6620_echoes_of_helia.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6620_echoes_of_helia.png",
     "simpleDescription": "Damage low-health enemies to trigger a cursed explosion, dealing damage and slowing nearby foes",
     "nicknames": [
       "spooky cup"
@@ -79943,19 +79943,19 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      224629,
-      7027,
-      6662
+      6029,
+      3133,
+      3067
     ],
     "buildsInto": [
-      227014
+      7015
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6630_fighter_t4_goredrinker.pie_c_12_23.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6630_fighter_t4_goredrinker.pie_c_12_23.png",
     "simpleDescription": null,
     "nicknames": [
       "slurp"
@@ -80340,19 +80340,19 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      224629,
-      6653,
-      6662
+      6029,
+      3051,
+      3067
     ],
     "buildsInto": [
-      227015
+      7016
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6631_fighter_t4_stridebreaker.pie_c_12_23.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6631_fighter_t4_stridebreaker.pie_c_12_23.png",
     "simpleDescription": null,
     "nicknames": [
       "kneecapper",
@@ -80917,19 +80917,19 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      7027,
-      6656,
-      6662
+      3133,
+      3057,
+      3067
     ],
     "buildsInto": [
-      227016
+      7017
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6632_fighter_t4_divinedevourer.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6632_fighter_t4_divinedevourer.png",
     "simpleDescription": null,
     "nicknames": [
       "devourer"
@@ -81487,18 +81487,18 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      223100,
-      7011
+      3802,
+      3108
     ],
     "buildsInto": [
-      227011
+      7012
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6653_mage_t4_liandrysanguish.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6653_mage_t4_liandrysanguish.png",
     "simpleDescription": "Charge up in combat to deal high damage over time, especially against durable enemies",
     "nicknames": [
       "last shadow",
@@ -82233,18 +82233,18 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      223100,
+      3802,
       1026
     ],
     "buildsInto": [
-      227012
+      7013
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6655_mage_t4_ludenstempest.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6655_mage_t4_ludenstempest.png",
     "simpleDescription": "High burst damage, good against fragile foes",
     "nicknames": [
       "boomstick"
@@ -82800,19 +82800,19 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      6662,
-      223100,
+      3067,
+      3802,
       1052
     ],
     "buildsInto": [
-      227013
+      7014
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6656_mage_t4_everfrost.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6656_mage_t4_everfrost.png",
     "simpleDescription": null,
     "nicknames": [
       "GLP",
@@ -83200,18 +83200,18 @@
     ],
     "buildsFrom": [
       1026,
-      223102,
+      3803,
       1052
     ],
     "buildsInto": [
-      227027
+      7028
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6657_mage_t4_rodofages.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6657_mage_t4_rodofages.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -83947,14 +83947,14 @@
       1028
     ],
     "buildsInto": [
-      6664
+      3068
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6660_tank_t2_bamiscinder.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6660_tank_t2_bamiscinder.png",
     "simpleDescription": null,
     "nicknames": [
       "fire"
@@ -84331,19 +84331,19 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      6656,
-      6662,
+      3057,
+      3067,
       1031
     ],
     "buildsInto": [
-      227002
+      7005
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6662_tank_t3_iceborngauntlet.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6662_tank_t3_iceborngauntlet.png",
     "simpleDescription": "High Magic Resist.Passively slow nearby enemies. When spells are cast near you, release a wave of energy that damages and slows.",
     "nicknames": [],
     "passives": [
@@ -84897,7 +84897,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6662,
+      3067,
       1057,
       1028
     ],
@@ -84907,7 +84907,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6664_tank_t4_acceleratedchemtank.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6664_tank_t4_acceleratedchemtank.png",
     "simpleDescription": "Immobilize enemies to gain a shield. Activate to run faster at opponents.",
     "nicknames": [
       "catastrophe"
@@ -85114,19 +85114,19 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      7009,
-      6662,
+      3105,
+      3067,
       1028
     ],
     "buildsInto": [
-      227025
+      7026
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6665_tank_t4_jakshotheprotean.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6665_tank_t4_jakshotheprotean.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -85679,18 +85679,18 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      7009,
+      3105,
       1011
     ],
     "buildsInto": [
-      227026
+      7027
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6667_tank_t4_radiantvirtue.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6667_tank_t4_radiantvirtue.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -86248,16 +86248,16 @@
       1036
     ],
     "buildsInto": [
-      7002,
-      6695,
-      226665
+      3095,
+      3087,
+      6672
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6670_marksman_t2_noonquiver.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6670_marksman_t2_noonquiver.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -86634,18 +86634,18 @@
     ],
     "buildsFrom": [
       1038,
-      6694,
+      3086,
       1036
     ],
     "buildsInto": [
-      227005
+      7006
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6671_marksman_t4_galeforce.pie_c_12_23.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6671_marksman_t4_galeforce.pie_c_12_23.png",
     "simpleDescription": null,
     "nicknames": [
       "squallrider"
@@ -87031,7 +87031,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      226662,
+      6670,
       1018,
       1043
     ],
@@ -87041,7 +87041,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6672_marksman_t4_behemothslayer.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6672_marksman_t4_behemothslayer.png",
     "simpleDescription": null,
     "nicknames": [
       "Kraken Slayer"
@@ -87429,7 +87429,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6673_marksman_t4_crimsonshieldbow.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6673_marksman_t4_crimsonshieldbow.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -87806,18 +87806,18 @@
     ],
     "buildsFrom": [
       1038,
-      7027,
+      3133,
       1018
     ],
     "buildsInto": [
-      227031
+      7032
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6675_marksman_t3_navoriquickblades.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6675_marksman_t3_navoriquickblades.png",
     "simpleDescription": null,
     "nicknames": [
       "crit shojin"
@@ -88550,7 +88550,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7028,
+      3134,
       1037,
       1018
     ],
@@ -88560,7 +88560,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6676_marksman_t3_thecollector.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6676_marksman_t3_thecollector.png",
     "simpleDescription": null,
     "nicknames": [
       "deathblade"
@@ -88942,14 +88942,14 @@
       1042
     ],
     "buildsInto": [
-      7025
+      3124
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6677_marksman_t2_rageknife.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6677_marksman_t2_rageknife.png",
     "simpleDescription": null,
     "nicknames": [
       "angry"
@@ -89506,18 +89506,18 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      7028,
-      7027
+      3134,
+      3133
     ],
     "buildsInto": [
-      227001
+      7002
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6691_assassin_t4_duskbladeofdraktharr.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6691_assassin_t4_duskbladeofdraktharr.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -90071,18 +90071,18 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      7028,
-      7027
+      3134,
+      3133
     ],
     "buildsInto": [
-      226696
+      7001
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6692_assassin_t4_eclipse.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6692_assassin_t4_eclipse.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -90637,18 +90637,18 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7028,
-      7027
+      3134,
+      3133
     ],
     "buildsInto": [
-      226695
+      7000
     ],
     "specialRecipe": 0,
     "noEffects": false,
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6693_assassin_t4_prowlersclaw.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6693_assassin_t4_prowlersclaw.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -91024,8 +91024,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7027,
-      6029
+      3133,
+      3035
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -91033,7 +91033,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6694_assasin_t3_seryldasgrudge.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6694_assasin_t3_seryldasgrudge.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -91410,7 +91410,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7028,
+      3134,
       1037
     ],
     "buildsInto": [],
@@ -91419,7 +91419,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6695_assassin_t3_serpentsfang.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6695_assassin_t3_serpentsfang.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -91794,8 +91794,8 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      7028,
-      7027
+      3134,
+      3133
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -91803,7 +91803,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6696_axiomarc.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6696_axiomarc.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -92178,7 +92178,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226676
+      6692
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -92186,7 +92186,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6692_assassin_t4_eclipse.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6692_assassin_t4_eclipse.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -92741,7 +92741,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226675
+      6691
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -92749,7 +92749,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6691_assassin_t4_duskbladeofdraktharr.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6691_assassin_t4_duskbladeofdraktharr.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -93303,7 +93303,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226653
+      6662
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -93311,7 +93311,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6662_tank_t3_iceborngauntlet.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6662_tank_t3_iceborngauntlet.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -93865,7 +93865,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226664
+      6671
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -93873,7 +93873,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6671_marksman_t4_galeforce.pie_c_12_23.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6671_marksman_t4_galeforce.pie_c_12_23.png",
     "simpleDescription": null,
     "nicknames": [
       "squallrider"
@@ -94259,7 +94259,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      223193
+      4633
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -94267,7 +94267,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4633_mage_t4_riftmaker.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4633_mage_t4_riftmaker.png",
     "simpleDescription": null,
     "nicknames": [
       "velkoz"
@@ -94823,7 +94823,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      223504
+      4636
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -94831,7 +94831,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4636_mage_t4_nightharvester.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4636_mage_t4_nightharvester.png",
     "simpleDescription": null,
     "nicknames": [
       "dark",
@@ -94842,7 +94842,7 @@
         "unique": true,
         "mythic": false,
         "name": "Soulrend",
-        "effects": "Damaging an enemy champion deals {{as|125 {{as|(+ 15% AP)}} '''bonus''' magic damage|magic damage}} and grants you {{as|25% '''bonus''' movement speed}} for {{fd|1.5}} seconds, with the duration extending on subsequent triggers.",
+        "effects": "Damaging an enemy champion with a basic attack, ability or pet damage deals {{as|125 {{as|(+ 15% AP)}} '''bonus''' magic damage|magic damage}} and grants you {{as|25% '''bonus''' movement speed}} for {{fd|1.5}} seconds, with the duration extending on subsequent triggers.",
         "range": null,
         "cooldown": "30 (per champion)",
         "stats": {
@@ -95388,7 +95388,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      8020
+      3152
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -95396,7 +95396,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3152_mage_t4_hextechrocketbelt.pie_c_12_23.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3152_mage_t4_hextechrocketbelt.pie_c_12_23.png",
     "simpleDescription": null,
     "nicknames": [
       "protobelt"
@@ -95783,7 +95783,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226617
+      6653
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -95791,7 +95791,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6653_mage_t4_liandrysanguish.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6653_mage_t4_liandrysanguish.png",
     "simpleDescription": null,
     "nicknames": [
       "last shadow",
@@ -96526,7 +96526,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226620
+      6655
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -96534,7 +96534,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6655_mage_t4_ludenstempest.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6655_mage_t4_ludenstempest.png",
     "simpleDescription": null,
     "nicknames": [
       "boomstick"
@@ -97090,7 +97090,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226630
+      6656
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -97098,7 +97098,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6656_mage_t4_everfrost.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6656_mage_t4_everfrost.png",
     "simpleDescription": null,
     "nicknames": [
       "GLP",
@@ -97485,7 +97485,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226333
+      6630
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -97493,7 +97493,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6630_fighter_t4_goredrinker.pie_c_12_23.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6630_fighter_t4_goredrinker.pie_c_12_23.png",
     "simpleDescription": null,
     "nicknames": [
       "slurp"
@@ -97878,7 +97878,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226609
+      6631
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -97886,7 +97886,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6631_fighter_t4_stridebreaker.pie_c_12_23.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6631_fighter_t4_stridebreaker.pie_c_12_23.png",
     "simpleDescription": null,
     "nicknames": [
       "kneecapper",
@@ -98451,7 +98451,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226616
+      6632
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -98459,7 +98459,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6632_fighter_t4_divinedevourer.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6632_fighter_t4_divinedevourer.png",
     "simpleDescription": null,
     "nicknames": [
       "devourer"
@@ -99017,7 +99017,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      6676
+      3078
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -99025,7 +99025,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3078_fighter_t4_trinityforce.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3078_fighter_t4_trinityforce.png",
     "simpleDescription": null,
     "nicknames": [
       "triforce",
@@ -99602,7 +99602,7 @@
         "percentBonus": 0.0
       },
       "attackSpeed": {
-        "flat": 45.0,
+        "flat": 43.0,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0,
@@ -99761,7 +99761,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      223036
+      3190
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -99769,7 +99769,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3190_enchanter_t4_locketofironsolari.pie_c_12_23.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3190_enchanter_t4_locketofironsolari.pie_c_12_23.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -100339,7 +100339,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png",
     "simpleDescription": null,
     "nicknames": [
       "shurelya",
@@ -100905,7 +100905,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      224645
+      6617
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -100913,7 +100913,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6617_enchanter_t4_moonstonerenewer.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6617_enchanter_t4_moonstonerenewer.png",
     "simpleDescription": null,
     "nicknames": [
       "yuumi"
@@ -101468,7 +101468,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      4628
+      3001
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -101476,7 +101476,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3001_support_lunari.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3001_support_lunari.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -102030,7 +102030,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      224401
+      4644
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -102038,7 +102038,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4644_crown.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4644_crown.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -102770,7 +102770,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      6692
+      3084
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -102778,7 +102778,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3084_tank_t4_heartsteel.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3084_tank_t4_heartsteel.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -103332,7 +103332,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226656
+      6665
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -103340,7 +103340,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6665_tank_t4_jakshotheprotean.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6665_tank_t4_jakshotheprotean.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -103893,7 +103893,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226657
+      6667
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -103901,7 +103901,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6667_tank_t4_radiantvirtue.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6667_tank_t4_radiantvirtue.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -104454,7 +104454,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226631
+      6657
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -104462,7 +104462,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6657_mage_t4_rodofages.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6657_mage_t4_rodofages.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -105016,7 +105016,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      7032
+      3142
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -105024,7 +105024,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3142_assassin_t3_youmuusghostblade.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3142_assassin_t3_youmuusghostblade.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -105586,7 +105586,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      7025
+      3124
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -105594,7 +105594,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3124_marksman_t3_guinsoosrageblade.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3124_marksman_t3_guinsoosrageblade.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -106327,7 +106327,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      4644
+      3031
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -106335,7 +106335,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3031_marksman_t3_infinityedge.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3031_marksman_t3_infinityedge.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -106545,7 +106545,7 @@
         "percentBonus": 0.0
       },
       "attackDamage": {
-        "flat": 100.0,
+        "flat": 95.0,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0,
@@ -106710,7 +106710,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226671
+      6675
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -106718,7 +106718,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6675_marksman_t3_navoriquickblades.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6675_marksman_t3_navoriquickblades.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -107449,7 +107449,7 @@
       "MYTHIC"
     ],
     "buildsFrom": [
-      226035
+      6620
     ],
     "buildsInto": [],
     "specialRecipe": 0,
@@ -107457,7 +107457,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "Ornn",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6620_echoes_of_helia.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6620_echoes_of_helia.png",
     "simpleDescription": null,
     "nicknames": [
       "spooky cup"
@@ -108190,7 +108190,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6662,
+      3067,
       1011
     ],
     "buildsInto": [],
@@ -108199,7 +108199,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/8001_tank_t3_anathemaschains.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/8001_tank_t3_anathemaschains.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [
@@ -108761,7 +108761,7 @@
       "LEGENDARY"
     ],
     "buildsFrom": [
-      6662,
+      3067,
       1057
     ],
     "buildsInto": [],
@@ -108770,7 +108770,7 @@
     "removed": false,
     "requiredChampion": "",
     "requiredAlly": "",
-    "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/8020_tank_t3_abyssalmask.png",
+    "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/8020_tank_t3_abyssalmask.png",
     "simpleDescription": null,
     "nicknames": [],
     "passives": [

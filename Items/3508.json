@@ -6,8 +6,8 @@
     "LEGENDARY"
   ],
   "buildsFrom": [
-    6656,
-    7027,
+    3057,
+    3133,
     1018
   ],
   "buildsInto": [],
@@ -16,7 +16,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3508_marksman_t3_essencereaver.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3508_marksman_t3_essencereaver.png",
   "simpleDescription": null,
   "nicknames": [
     "er",

@@ -6,7 +6,7 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    7032
+    3142
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -14,7 +14,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "Ornn",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3142_assassin_t3_youmuusghostblade.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3142_assassin_t3_youmuusghostblade.png",
   "simpleDescription": null,
   "nicknames": [],
   "passives": [

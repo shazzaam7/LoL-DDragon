@@ -7,18 +7,18 @@
   ],
   "buildsFrom": [
     1026,
-    7050,
+    3145,
     1052
   ],
   "buildsInto": [
-    227010
+    7011
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3152_mage_t4_hextechrocketbelt.pie_c_12_23.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3152_mage_t4_hextechrocketbelt.pie_c_12_23.png",
   "simpleDescription": "Activate to dash forward and unleash a fiery explosion",
   "nicknames": [
     "protobelt",

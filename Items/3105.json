@@ -10,17 +10,17 @@
     1029
   ],
   "buildsInto": [
-    223042,
-    226656,
-    223177,
-    226657
+    3193,
+    6665,
+    4403,
+    6667
   ],
   "specialRecipe": 0,
   "noEffects": true,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png",
   "simpleDescription": "Grants Armor and Magic Resistance",
   "nicknames": [],
   "passives": [],

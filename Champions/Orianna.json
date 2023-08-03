@@ -4,7 +4,7 @@
   "name": "Orianna",
   "title": "the Lady of Clockwork",
   "fullName": "Orianna Reveck",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Orianna.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Orianna.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -712,7 +712,7 @@
         "icon": "https://cdn.communitydragon.org/latest/champion/Orianna/ability-icon/r",
         "effects": [
           {
-            "description": "Active: Orianna commands The Ball to unleash a shockwave that deals magic damage to nearby enemies, stunning them for 0.75 seconds, and pulling them over 325 − 700 (based on proximity to ball) units, though not through terrain.",
+            "description": "Active: Orianna commands The Ball to unleash a shockwave that deals magic damage to nearby enemies, stunning them for 0.75 seconds, and pulling them over 325 units, though not through terrain.",
             "leveling": [
               {
                 "attribute": "Magic Damage",

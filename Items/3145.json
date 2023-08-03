@@ -10,18 +10,18 @@
     1028
   ],
   "buildsInto": [
-    223009,
-    8020,
-    223181,
-    223504,
-    224628
+    3165,
+    3152,
+    4628,
+    4636,
+    4645
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3145_mage_t2_hextechalternator.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3145_mage_t2_hextechalternator.png",
   "simpleDescription": "Increases Ability Power. Deal bonus magic damage on attack periodically.",
   "nicknames": [
     "revolver"

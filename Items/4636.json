@@ -6,19 +6,19 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    7050,
-    7011,
+    3145,
+    3108,
     1052
   ],
   "buildsInto": [
-    227009
+    7010
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4636_mage_t4_nightharvester.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4636_mage_t4_nightharvester.png",
   "simpleDescription": null,
   "nicknames": [
     "dark",
@@ -29,7 +29,7 @@
       "unique": true,
       "mythic": false,
       "name": "Soulrend",
-      "effects": "Damaging an enemy champion deals {{as|125 {{as|(+ 15% AP)}} '''bonus''' magic damage|magic damage}} and grants you {{as|25% '''bonus''' movement speed}} for {{fd|1.5}} seconds, with the duration extending on subsequent triggers.",
+      "effects": "Damaging an enemy champion with a basic attack, ability or pet damage deals {{as|125 {{as|(+ 15% AP)}} '''bonus''' magic damage|magic damage}} and grants you {{as|25% '''bonus''' movement speed}} for {{fd|1.5}} seconds, with the duration extending on subsequent triggers.",
       "range": null,
       "cooldown": "30 (per champion)",
       "stats": {

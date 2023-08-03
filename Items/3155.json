@@ -10,14 +10,14 @@
     1033
   ],
   "buildsInto": [
-    223001
+    3156
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3155_fighter_t2_hexdrinker.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3155_fighter_t2_hexdrinker.png",
   "simpleDescription": "Increases Attack Damage and Magic Resist",
   "nicknames": [],
   "passives": [

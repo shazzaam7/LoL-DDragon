@@ -6,7 +6,7 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    226616
+    6632
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -14,7 +14,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "Ornn",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6632_fighter_t4_divinedevourer.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6632_fighter_t4_divinedevourer.png",
   "simpleDescription": null,
   "nicknames": [
     "devourer"

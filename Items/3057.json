@@ -7,18 +7,18 @@
   ],
   "buildsFrom": [],
   "buildsInto": [
-    226616,
-    226653,
-    223084,
-    7005,
-    6676
+    6632,
+    6662,
+    3508,
+    3100,
+    3078
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3057_fighter_t2_sheen.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3057_fighter_t2_sheen.png",
   "simpleDescription": "Grants a bonus to next attack after spell cast",
   "nicknames": [
     "jimmy neutron"

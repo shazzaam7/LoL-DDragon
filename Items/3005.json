@@ -10,7 +10,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4001_ghostwalkers.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4001_ghostwalkers.png",
   "simpleDescription": "Increases Attack Damage based on maximum Health",
   "nicknames": [
     "wreckoning"

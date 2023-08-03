@@ -6,8 +6,8 @@
     "LEGENDARY"
   ],
   "buildsFrom": [
-    4641,
-    223095
+    3023,
+    3801
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -15,7 +15,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3109_tank_t3_knightsvow.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3109_tank_t3_knightsvow.png",
   "simpleDescription": "Partner with an ally to protect each other",
   "nicknames": [
     "kv"

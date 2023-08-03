@@ -6,9 +6,9 @@
     "LEGENDARY"
   ],
   "buildsFrom": [
-    223040,
-    7011,
-    4004
+    3191,
+    3108,
+    2420
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -16,7 +16,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3157_mage_t3_zhonyashourglass.pie_c_12_23.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3157_mage_t3_zhonyashourglass.pie_c_12_23.png",
   "simpleDescription": "Activate to become invincible but unable to take actions",
   "nicknames": [
     "zhg",

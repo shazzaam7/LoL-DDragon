@@ -6,8 +6,8 @@
     "LEGENDARY"
   ],
   "buildsFrom": [
-    6653,
-    6694
+    3051,
+    3086
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -15,7 +15,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3046_marksman_t3_phantomdancer.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3046_marksman_t3_phantomdancer.png",
   "simpleDescription": "Move faster while attacking enemies and gain a shield when on low health.",
   "nicknames": [
     "pd"

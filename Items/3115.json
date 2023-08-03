@@ -8,7 +8,7 @@
   "buildsFrom": [
     1043,
     1026,
-    7011
+    3108
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -16,7 +16,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3115_mage_t3_nashorstooth.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3115_mage_t3_nashorstooth.png",
   "simpleDescription": "Increases Attack Speed, Ability Power, and Cooldown Reduction",
   "nicknames": [
     "nashors"

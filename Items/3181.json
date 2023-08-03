@@ -7,8 +7,8 @@
   ],
   "buildsFrom": [
     1037,
-    6620,
-    6660
+    3044,
+    3066
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -16,7 +16,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3181_hullbreaker.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3181_hullbreaker.png",
   "simpleDescription": null,
   "nicknames": [],
   "passives": [

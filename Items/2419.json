@@ -7,16 +7,16 @@
   ],
   "buildsFrom": [],
   "buildsInto": [
-    4004,
-    223003,
-    4643
+    2420,
+    3157,
+    3026
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2419_mage_t1_stopwatch.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2419_mage_t1_stopwatch.png",
   "simpleDescription": null,
   "nicknames": [],
   "passives": [

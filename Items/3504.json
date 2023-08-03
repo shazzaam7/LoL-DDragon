@@ -6,8 +6,8 @@
     "LEGENDARY"
   ],
   "buildsFrom": [
-    7016,
-    7017
+    3113,
+    3114
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -15,7 +15,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3504_enchanter_t3_ardentcenser.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3504_enchanter_t3_ardentcenser.png",
   "simpleDescription": "Shield and heal effects on other units grant both of you Attack Speed and their attacks deal additional on-hit magic damage.",
   "nicknames": [
     "censor"

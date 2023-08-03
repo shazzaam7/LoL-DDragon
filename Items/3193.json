@@ -7,7 +7,7 @@
   ],
   "buildsFrom": [
     1029,
-    7009,
+    3105,
     1033
   ],
   "buildsInto": [],
@@ -16,7 +16,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3193_tank_t3_gargoylestoneplate.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3193_tank_t3_gargoylestoneplate.png",
   "simpleDescription": "Greatly increases defense near multiple enemies.",
   "nicknames": [],
   "passives": [

@@ -6,7 +6,7 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    4644
+    3031
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -14,7 +14,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "Ornn",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3031_marksman_t3_infinityedge.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3031_marksman_t3_infinityedge.png",
   "simpleDescription": null,
   "nicknames": [],
   "passives": [
@@ -224,7 +224,7 @@
       "percentBonus": 0.0
     },
     "attackDamage": {
-      "flat": 100.0,
+      "flat": 95.0,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,

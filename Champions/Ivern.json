@@ -4,7 +4,7 @@
   "name": "Ivern",
   "title": "the Green Father",
   "fullName": "Ivern Bramblefoot",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Ivern.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Ivern.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -40,9 +40,9 @@
       "percentPerLevel": 0.0
     },
     "magicResistance": {
-      "flat": 32,
+      "flat": 30,
       "percent": 0.0,
-      "perLevel": 2.05,
+      "perLevel": 1.3,
       "percentPerLevel": 0.0
     },
     "attackDamage": {
@@ -448,11 +448,11 @@
                 "modifiers": [
                   {
                     "values": [
-                      5,
-                      7.5,
                       10,
-                      12.5,
-                      15
+                      15,
+                      20,
+                      25,
+                      30
                     ],
                     "units": [
                       "",
@@ -572,11 +572,11 @@
                 "modifiers": [
                   {
                     "values": [
-                      80,
-                      115,
-                      150,
-                      185,
-                      220
+                      85,
+                      125,
+                      165,
+                      205,
+                      245
                     ],
                     "units": [
                       "",
@@ -588,11 +588,11 @@
                   },
                   {
                     "values": [
-                      75,
-                      75,
-                      75,
-                      75,
-                      75
+                      50,
+                      50,
+                      50,
+                      50,
+                      50
                     ],
                     "units": [
                       "% AP",
@@ -746,7 +746,7 @@
         "icon": "https://cdn.communitydragon.org/latest/champion/Ivern/ability-icon/r",
         "effects": [
           {
-            "description": "Active: Ivern summons his sentinel friend Daisy to his side, who lands 350 units away from him in the target direction and remains on the field for up to 60 seconds as a controllable pet.",
+            "description": "Active: Ivern summons his sentinel friend Daisy to his side, who lands 350 units away from him in the target direction and remains on the field for up to 45 seconds as a controllable pet.",
             "leveling": []
           },
           {
@@ -823,7 +823,7 @@
   },
   "releaseDate": "2016-10-05",
   "releasePatch": "6.20",
-  "patchLastChanged": "13.14",
+  "patchLastChanged": "13.15",
   "price": {
     "blueEssence": 4800,
     "rp": 880,

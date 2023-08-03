@@ -4,7 +4,7 @@
   "name": "Aatrox",
   "title": "the Darkin Blade",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Aatrox.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Aatrox.png",
   "resource": "BLOOD_WELL",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -130,7 +130,7 @@
       "percentPerLevel": 0.0
     },
     "aramDamageTaken": {
-      "flat": 0.95,
+      "flat": 1,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0
@@ -318,10 +318,10 @@
                   {
                     "values": [
                       60,
-                      70,
-                      80,
-                      90,
-                      100
+                      67.5,
+                      75,
+                      82.5,
+                      90
                     ],
                     "units": [
                       "% AD",
@@ -355,10 +355,10 @@
                   {
                     "values": [
                       96,
-                      112,
-                      128,
-                      144,
-                      160
+                      108,
+                      120,
+                      132,
+                      144
                     ],
                     "units": [
                       "% AD",
@@ -397,10 +397,10 @@
                   {
                     "values": [
                       75,
-                      87.5,
-                      100,
-                      112.5,
-                      125
+                      84.375,
+                      93.75,
+                      103.125,
+                      112.5
                     ],
                     "units": [
                       "% AD",
@@ -434,10 +434,10 @@
                   {
                     "values": [
                       120,
-                      140,
-                      160,
-                      180,
-                      200
+                      135,
+                      150,
+                      165,
+                      180
                     ],
                     "units": [
                       "% AD",
@@ -476,10 +476,10 @@
                   {
                     "values": [
                       90,
-                      105,
-                      120,
-                      135,
-                      150
+                      101.25,
+                      112.5,
+                      123.75,
+                      135
                     ],
                     "units": [
                       "% AD",
@@ -513,10 +513,10 @@
                   {
                     "values": [
                       144,
-                      168,
-                      192,
-                      216,
-                      240
+                      162,
+                      180,
+                      198,
+                      216
                     ],
                     "units": [
                       "% AD",
@@ -1002,7 +1002,7 @@
   },
   "releaseDate": "2013-06-13",
   "releasePatch": "3.8",
-  "patchLastChanged": "13.14",
+  "patchLastChanged": "13.15",
   "price": {
     "blueEssence": 4800,
     "rp": 880,

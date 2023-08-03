@@ -10,17 +10,17 @@
     1029
   ],
   "buildsInto": [
-    7012,
-    6632,
-    4628,
-    223036
+    3109,
+    3050,
+    3001,
+    3190
   ],
   "specialRecipe": 0,
   "noEffects": true,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3023_lifewell_pendant.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3023_lifewell_pendant.png",
   "simpleDescription": "Summon wraiths to slow and reveal enemy champions",
   "nicknames": [
     "spooky ghosts"

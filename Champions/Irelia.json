@@ -4,7 +4,7 @@
   "name": "Irelia",
   "title": "the Blade Dancer",
   "fullName": "Xan Irelia",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Irelia.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Irelia.png",
   "resource": "MANA",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -1223,6 +1223,27 @@
             {
               "rarity": 1,
               "region": "riot"
+            }
+          ]
+        },
+        {
+          "name": "Unflinching Zeal",
+          "id": 39044,
+          "chromaPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39044.png",
+          "colors": [
+            "#000000",
+            "#000000"
+          ],
+          "descriptions": [
+            {
+              "description": null,
+              "region": null
+            }
+          ],
+          "rarities": [
+            {
+              "rarity": null,
+              "region": null
             }
           ]
         }

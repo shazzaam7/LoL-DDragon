@@ -4,7 +4,7 @@
   "name": "Anivia",
   "title": "the Cryophoenix",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Anivia.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Anivia.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -2080,7 +2080,7 @@
       "name": "Victorious",
       "id": 34046,
       "isBase": false,
-      "availability": "Upcoming",
+      "availability": "Limited",
       "formatName": "Victorious",
       "lootEligible": false,
       "cost": "Special",
@@ -2258,7 +2258,7 @@
         }
       ],
       "lore": "Victorious Anivia was awarded to players who earned the requisite ranked split points in Season 2023 Split 1. Rising from the ashes covered in crystalline armor, Anivia's opulent feathers reflect her heightened nature. She is perseverance personified, an undying wish granted to those that need her most. ",
-      "release": "0000-00-00",
+      "release": "2023-07-17",
       "set": [
         "Victorious"
       ],

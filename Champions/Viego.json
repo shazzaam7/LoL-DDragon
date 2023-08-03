@@ -4,7 +4,7 @@
   "name": "Viego",
   "title": "The Ruined King",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Viego.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Viego.png",
   "resource": "NONE",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -1621,7 +1621,7 @@
         }
       ],
       "lore": "The gracious—if needlessly reclusive—host of the Tournament of Souls welcomes all to his arena! Look at him now, eyeing the competition from his throne room high above the ring! Doesn't his solitude just make ya sad, folks? Here's hoping he hops down from that tower and turns that sorrow into UNBRIDLED RAGE! Viiiiieeeeeeegoooooo!",
-      "release": "0000-00-00",
+      "release": "2023-08-03",
       "set": [
         "Soul Fighter"
       ],
@@ -1629,7 +1629,7 @@
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/234/234030.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/234/234030.jpg",
       "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/viegoloadscreen_30.pie_c_13_15.jpg",
-      "loadScreenVintagePath": null,
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/viegoloadscreen_30_le.pie_c_13_15.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,

@@ -7,14 +7,14 @@
   ],
   "buildsFrom": [],
   "buildsInto": [
-    224005
+    4643
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4638_enchanter_t3_watchfulsightstone.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4638_enchanter_t3_watchfulsightstone.png",
   "simpleDescription": null,
   "nicknames": [
     "Support",

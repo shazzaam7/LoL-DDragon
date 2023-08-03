@@ -7,7 +7,7 @@
   ],
   "buildsFrom": [
     1043,
-    6694
+    3086
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -15,7 +15,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3085_marksman_t3_runaans.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3085_marksman_t3_runaans.png",
   "simpleDescription": "Ranged attacks fire two bolts at nearby enemies",
   "nicknames": [],
   "passives": [
@@ -23,7 +23,7 @@
       "unique": true,
       "mythic": false,
       "name": "Peck",
-      "effects": "Basic attacks deal {{as|15 '''bonus''' magic damage}} [[on-hit]].",
+      "effects": "Basic attacks deal {{as|30 '''bonus''' magic damage}} [[on-hit]].",
       "range": null,
       "cooldown": null,
       "stats": {
@@ -201,7 +201,7 @@
       "unique": true,
       "mythic": false,
       "name": "Wind's Fury",
-      "effects": "Basic attacks [[on-attack]] fire additional bolts at up to 2 enemies {{tt|in front of you|180{{degree}}}}, each dealing {{as|50% AD}} {{as|physical damage}}. Bolts apply {{tip|on-hit}} effects at 100% effectiveness and are affected by {{tip|critical strike}} modifiers.",
+      "effects": "Basic attacks [[on-attack]] fire additional bolts at up to 2 enemies {{tt|in front of you|180{{degree}}}}, each dealing {{as|40% AD}} {{as|physical damage}}. Bolts apply {{tip|on-hit}} effects at 100% effectiveness and are affected by {{tip|critical strike}} modifiers.",
       "range": null,
       "cooldown": null,
       "stats": {

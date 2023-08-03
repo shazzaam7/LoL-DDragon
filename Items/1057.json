@@ -9,16 +9,16 @@
     1033
   ],
   "buildsInto": [
-    223165,
-    226655,
-    228020
+    4401,
+    6664,
+    8020
   ],
   "specialRecipe": 0,
   "noEffects": true,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1057_tank_t2_negatroncloak.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1057_tank_t2_negatroncloak.png",
   "simpleDescription": "Moderately increases Magic Resist",
   "nicknames": [],
   "passives": [],

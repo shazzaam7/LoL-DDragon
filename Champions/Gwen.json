@@ -4,7 +4,7 @@
   "name": "Gwen",
   "title": "The Hallowed Seamstress",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Gwen.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Gwen.png",
   "resource": "MANA",
   "attackType": "MELEE",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -16,7 +16,7 @@
       "percentPerLevel": 0.0
     },
     "healthRegen": {
-      "flat": 8.5,
+      "flat": 9,
       "percent": 0.0,
       "perLevel": 0.9,
       "percentPerLevel": 0.0
@@ -697,11 +697,11 @@
                 "modifiers": [
                   {
                     "values": [
-                      17,
-                      19,
-                      21,
-                      23,
-                      25
+                      22,
+                      24,
+                      26,
+                      28,
+                      30
                     ],
                     "units": [
                       "",
@@ -1243,7 +1243,7 @@
   },
   "releaseDate": "2021-04-15",
   "releasePatch": "11.8",
-  "patchLastChanged": "12.20",
+  "patchLastChanged": "13.15",
   "price": {
     "blueEssence": 4800,
     "rp": 880,
@@ -1875,7 +1875,7 @@
         }
       ],
       "lore": "She went to the ends of the world... and beyond... to save her friend! And according to the bracket that I'm looking at with my very eyes, she's going to have to fight him to win this tournament! OOF! I swear, this isn't scripted folks. It's LIVE TV! A girl with friendship in her heart and magical scissors that raise the dead in her hands: Gwen!",
-      "release": "0000-00-00",
+      "release": "2023-08-03",
       "set": [
         "Soul Fighter"
       ],
@@ -1883,7 +1883,7 @@
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/887/887020.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/887/887020.jpg",
       "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/gwenloadscreen_20.pie_c_13_15.jpg",
-      "loadScreenVintagePath": null,
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/gwenloadscreen_20_le.pie_c_13_15.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,

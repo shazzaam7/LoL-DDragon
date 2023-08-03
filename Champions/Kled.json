@@ -4,7 +4,7 @@
   "name": "Kled",
   "title": "the Cantankerous Cavalier",
   "fullName": "Kled and Skaarl",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Kled.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Kled.png",
   "resource": "COURAGE",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -199,7 +199,7 @@
         "icon": "https://cdn.communitydragon.org/latest/champion/Kled/ability-icon/p",
         "effects": [
           {
-            "description": "Innate: Kled rides his semi-trusty mount, Skaarl. While Mounted, all damage dealt to the duo is suffered by Skaarl, who has 810 − 3258 (based on level) (+ 100% bonus health) base health. Effects based on percentage health consider Kled and Skaarl's combined maximum health.",
+            "description": "Innate: Kled rides his semi-trusty mount, Skaarl. While Mounted, all damage dealt to the duo is suffered by Skaarl, who has 400 − 1550 (based on level) (+ 100% bonus health) base health. Effects based on percentage health consider Kled and Skaarl's combined maximum health.",
             "leveling": []
           },
           {

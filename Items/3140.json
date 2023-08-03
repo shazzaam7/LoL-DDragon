@@ -9,15 +9,15 @@
     1033
   ],
   "buildsInto": [
-    224633,
-    7030
+    6035,
+    3139
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3140_marksman_t2_quicksilversash.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3140_marksman_t2_quicksilversash.png",
   "simpleDescription": "Activate to remove all crowd control debuffs",
   "nicknames": [
     "qss"

@@ -7,15 +7,15 @@
   ],
   "buildsFrom": [],
   "buildsInto": [
-    223003,
-    4643
+    3157,
+    3026
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2424_mage_t1_brokenstopwatch.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2424_mage_t1_brokenstopwatch.png",
   "simpleDescription": "Upgrades to stopwatch",
   "nicknames": [],
   "passives": [],

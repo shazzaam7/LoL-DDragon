@@ -4,7 +4,7 @@
   "name": "Shaco",
   "title": "the Demon Jester",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Shaco.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Shaco.png",
   "resource": "MANA",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -1074,7 +1074,7 @@
   },
   "releaseDate": "2009-10-10",
   "releasePatch": "0.9.25.34",
-  "patchLastChanged": "13.14",
+  "patchLastChanged": "13.15",
   "price": {
     "blueEssence": 3150,
     "rp": 790,
@@ -2344,7 +2344,7 @@
         }
       ],
       "lore": "I know very little about this fighter... and I've been told by our host to say EVEN LESS! (They've GOT to be friends... or mortal enemies?) His desires are hidden—just like his face—and his style in the ring remains to be seen! We just LOVE a mysterious and not-at-all creepy combatant, don't we, folks? Here he is... Shaaaaaaaacoooooo!",
-      "release": "0000-00-00",
+      "release": "2023-08-03",
       "set": [
         "Soul Fighter"
       ],
@@ -2352,7 +2352,7 @@
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/35/35043.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/35/35043.jpg",
       "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin43/shacoloadscreen_43.pie_c_13_15.jpg",
-      "loadScreenVintagePath": null,
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin43/shacoloadscreen_43_le.pie_c_13_15.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,
@@ -2378,7 +2378,7 @@
       "rarity": "Mythic",
       "chromas": [],
       "lore": "Shaco is never predictable; his unique (and often terrifying) looks make him a hit with judges year after year. Now adorned in gold and ivory lace, Shaco claims to be making a statement about fast fashion and the constraints it puts on designers and models. Or maybe he just wants an excuse to show off his soul-power arms.  ",
-      "release": "0000-00-00",
+      "release": "2023-08-03",
       "set": [
         "Soul Fighter"
       ],
@@ -2386,7 +2386,7 @@
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/35/35044.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/35/35044.jpg",
       "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin44/shacoloadscreen_44.pie_c_13_15.jpg",
-      "loadScreenVintagePath": null,
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin44/shacoloadscreen_44_le.pie_c_13_15.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,

@@ -6,18 +6,18 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    7028,
-    7027
+    3134,
+    3133
   ],
   "buildsInto": [
-    227001
+    7002
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6691_assassin_t4_duskbladeofdraktharr.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6691_assassin_t4_duskbladeofdraktharr.png",
   "simpleDescription": null,
   "nicknames": [],
   "passives": [

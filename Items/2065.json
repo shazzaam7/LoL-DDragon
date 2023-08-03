@@ -6,18 +6,18 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    6662,
-    223814
+    3067,
+    4642
   ],
   "buildsInto": [
-    227019
+    7020
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png",
   "simpleDescription": "Activate to speed up nearby allies.",
   "nicknames": [
     "shurelya",

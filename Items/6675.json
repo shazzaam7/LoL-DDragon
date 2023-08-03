@@ -7,18 +7,18 @@
   ],
   "buildsFrom": [
     1038,
-    7027,
+    3133,
     1018
   ],
   "buildsInto": [
-    227031
+    7032
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6675_marksman_t3_navoriquickblades.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6675_marksman_t3_navoriquickblades.png",
   "simpleDescription": null,
   "nicknames": [
     "crit shojin"

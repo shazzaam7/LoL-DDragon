@@ -4,7 +4,7 @@
   "name": "Caitlyn",
   "title": "the Sheriff of Piltover",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Caitlyn.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Caitlyn.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -201,7 +201,7 @@
             "leveling": []
           },
           {
-            "description": "Headshot: Caitlyn's basic attack is empowered to have an uncancellable windup and deal 60 / 90 / 120% (based on level) (+ (131.25% + 33.75%) critical strike chance) AD bonus physical damage, increased to 110 / 115 / 120% (based on level) (+ (131.25% + 33.75%) critical strike chance AD against non-champions.",
+            "description": "Headshot: Caitlyn's basic attack is empowered to have an uncancellable windup and deal 60 / 90 / 120% (based on level) (+ (142.1875% + 36.5625%) critical strike chance) AD bonus physical damage, increased to 110 / 115 / 120% (based on level) (+ (142.1875% + 36.5625%) critical strike chance AD against non-champions.",
             "leveling": []
           },
           {
@@ -699,7 +699,7 @@
             "leveling": []
           },
           {
-            "description": "Once Caitlyn completes the channel, she fires a homing bullet toward the target that deals physical damage to the first enemy champion it hits, increased by 0% − 25% (based on critical strike chance).",
+            "description": "Once Caitlyn completes the channel, she fires a homing bullet toward the target that deals physical damage to the first enemy champion it hits, increased by 0% − 35% (based on critical strike chance).",
             "leveling": [
               {
                 "attribute": "Physical damage",
@@ -775,7 +775,7 @@
         "projectile": "TRUE",
         "onHitEffects": null,
         "occurrence": null,
-        "notes": "The following will cancel Ace in the Hole's channel (mana expenditure is not compensated):\nCaitlyn is  interrupted.\nThe target becomes  untargetable.\nCaitlyn or her target  dies.\nCaitlyn uses  Flash.\nAce in the Hole reveals the target and Caitlyn through a buff that lasts for up to 4 seconds.\nThe buff is applied to the target from the start of the cast time.\nThe buff ends prematurely when the channel is canceled or the bullet hits an enemy.\nThe target is revealed for 1 second if the buff is ended prematurely.\nIt is not removed if the cast time is cancelled or the bullet missile is destroyed.(bug)\nThe ability also goes on a 5-second  cooldown if Caitlyn enters  resurrection during the cast time.\nThe cast time does not end prematurely but the channel will be immediately canceled the moment the cast time completes.\nIf the target dies after the bullet has been fired, the shot will continue towards their corpse and may still hit other enemy champions.\nThe bullet has a  sight radius of 1500 attached to it.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).\n\n\nThis excludes losing sight of the target.\nThe following table refers for interactions while Caitlyn is  channeling:\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Turbo Chemtank  Youmuu's Ghostblade  Gargoyle Stoneplate  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath Cast-inhibiting effects",
+        "notes": "The following will cancel Ace in the Hole's channel (mana expenditure is not compensated):\nCaitlyn is  interrupted.\nThe target becomes  untargetable.\nCaitlyn or her target  dies.\nAce in the Hole reveals the target and Caitlyn through a buff that lasts for up to 4 seconds.\nThe buff is applied to the target from the start of the cast time.\nThe buff ends prematurely when the channel is canceled or the bullet hits an enemy.\nThe target is revealed for 1 second if the buff is ended prematurely.\nIt is not removed if the cast time is cancelled or the bullet missile is destroyed.(bug)\nThe ability also goes on a 5-second  cooldown if Caitlyn enters  resurrection during the cast time.\nThe cast time does not end prematurely but the channel will be immediately canceled the moment the cast time completes.\nIf the target dies after the bullet has been fired, the shot will continue towards their corpse and may still hit other enemy champions.\nThe bullet has a  sight radius of 1500 attached to it.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).\nThis excludes losing sight of the target.\nThe following table refers for interactions while Caitlyn is  channeling:\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Turbo Chemtank  Youmuu's Ghostblade  Gargoyle Stoneplate  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath Cast-inhibiting effects",
         "blurb": "Active:  Caitlyn targets an enemy champion and takes time to line up the perfect shot, dealing massive physical damage to them at a huge range.",
         "missileSpeed": null,
         "rechargeRate": null,
@@ -794,7 +794,7 @@
   },
   "releaseDate": "2011-01-04",
   "releasePatch": "1.0.0.108",
-  "patchLastChanged": "13.11",
+  "patchLastChanged": "13.15",
   "price": {
     "blueEssence": 450,
     "rp": 260,
@@ -1827,7 +1827,7 @@
       "splashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/51/51030.jpg",
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/51/51030.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/51/51030.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin30/caitlynloadscreen_30.pie_c_12_12.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin30/caitlynloadscreen_30.jpg",
       "loadScreenVintagePath": null,
       "newEffects": true,
       "newAnimations": true,

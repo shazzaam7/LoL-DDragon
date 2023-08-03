@@ -6,7 +6,7 @@
     "LEGENDARY"
   ],
   "buildsFrom": [
-    7050,
+    3145,
     1058
   ],
   "buildsInto": [],
@@ -15,7 +15,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4645_shadowflame.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4645_shadowflame.png",
   "simpleDescription": null,
   "nicknames": [],
   "passives": [

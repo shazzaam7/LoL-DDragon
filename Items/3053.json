@@ -7,7 +7,7 @@
   ],
   "buildsFrom": [
     1037,
-    6620,
+    3044,
     1028
   ],
   "buildsInto": [],
@@ -16,7 +16,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3053_steraks_gage.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3053_steraks_gage.png",
   "simpleDescription": "Shields against large bursts of damage",
   "nicknames": [
     "juggernaut",

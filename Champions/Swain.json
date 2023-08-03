@@ -4,7 +4,7 @@
   "name": "Swain",
   "title": "the Noxian Grand General",
   "fullName": "Jericho Swain",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Swain.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Swain.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -142,7 +142,7 @@
       "percentPerLevel": 0.0
     },
     "aramHealing": {
-      "flat": 0.9,
+      "flat": 0.8,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0

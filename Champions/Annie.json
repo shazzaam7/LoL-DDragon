@@ -4,7 +4,7 @@
   "name": "Annie",
   "title": "the Dark Child",
   "fullName": "Annie Hastur",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Annie.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Annie.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -738,7 +738,7 @@
   },
   "releaseDate": "2009-02-21",
   "releasePatch": "Alpha Week 2",
-  "patchLastChanged": "13.13",
+  "patchLastChanged": "13.15",
   "price": {
     "blueEssence": 450,
     "rp": 260,

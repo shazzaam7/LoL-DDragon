@@ -6,18 +6,18 @@
     "MYTHIC"
   ],
   "buildsFrom": [
-    7028,
-    7027
+    3134,
+    3133
   ],
   "buildsInto": [
-    227028
+    7029
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3142_assassin_t3_youmuusghostblade.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3142_assassin_t3_youmuusghostblade.png",
   "simpleDescription": "Activate to greatly increase Move Speed",
   "nicknames": [],
   "passives": [

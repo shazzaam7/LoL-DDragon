@@ -6,9 +6,9 @@
     "LEGENDARY"
   ],
   "buildsFrom": [
-    6675,
+    3077,
     1053,
-    7027
+    3133
   ],
   "buildsInto": [],
   "specialRecipe": 0,
@@ -16,7 +16,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3074_fighter_t3_ravenoushydra.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3074_fighter_t3_ravenoushydra.png",
   "simpleDescription": "Melee attacks hit nearby enemies, dealing damage and restoring Health",
   "nicknames": [
     "rav hydra"

@@ -4,7 +4,7 @@
   "name": "Yone",
   "title": "the Unforgotten",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Yone.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Yone.png",
   "resource": "SOUL_UNBOUND",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -463,7 +463,7 @@
             ]
           },
           {
-            "description": "If this hits an enemy, Yone grants himself a shield for 45 − 65 (based on level) (+ 65% bonus AD) for 1.5 seconds, increased by 100% if it hits a champion and by 50% for each subsequent champion hit.",
+            "description": "If this hits an enemy, Yone grants himself a shield for 60 − 80 (based on level) (+ 65% bonus AD) for 1.5 seconds, increased by 100% if it hits a champion and by 50% for each subsequent champion hit.",
             "leveling": []
           }
         ],
@@ -761,7 +761,7 @@
   },
   "releaseDate": "2020-08-06",
   "releasePatch": "10.16",
-  "patchLastChanged": "13.14",
+  "patchLastChanged": "13.15",
   "price": {
     "blueEssence": 3150,
     "rp": 790,

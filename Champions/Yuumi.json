@@ -4,7 +4,7 @@
   "name": "Yuumi",
   "title": "the Magical Cat",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Yuumi.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Yuumi.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -1077,7 +1077,7 @@
   },
   "releaseDate": "2019-05-14",
   "releasePatch": "9.10",
-  "patchLastChanged": "13.12",
+  "patchLastChanged": "13.15",
   "price": {
     "blueEssence": 450,
     "rp": 260,

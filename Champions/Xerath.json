@@ -4,7 +4,7 @@
   "name": "Xerath",
   "title": "the Magus Ascendant",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Xerath.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Xerath.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -917,7 +917,7 @@
   },
   "releaseDate": "2011-10-05",
   "releasePatch": "1.0.0.126",
-  "patchLastChanged": "13.14",
+  "patchLastChanged": "13.15",
   "price": {
     "blueEssence": 1350,
     "rp": 585,

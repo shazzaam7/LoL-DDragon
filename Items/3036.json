@@ -6,7 +6,7 @@
     "LEGENDARY"
   ],
   "buildsFrom": [
-    6029,
+    3035,
     1018
   ],
   "buildsInto": [],
@@ -15,7 +15,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3036_marksman_t3_dominikregards.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3036_marksman_t3_dominikregards.png",
   "simpleDescription": "Overcomes enemies with high health and armor",
   "nicknames": [
     "lw",

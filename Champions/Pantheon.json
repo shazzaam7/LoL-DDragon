@@ -4,7 +4,7 @@
   "name": "Pantheon",
   "title": "the Unbreakable Spear",
   "fullName": "Atreus",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.14.1/img/champion/Pantheon.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Pantheon.png",
   "resource": "MANA",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -130,13 +130,13 @@
       "percentPerLevel": 0.0
     },
     "aramDamageTaken": {
-      "flat": 1.0,
+      "flat": 1,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0
     },
     "aramDamageDealt": {
-      "flat": 1.0,
+      "flat": 1.05,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0
@@ -1854,8 +1854,8 @@
       "splashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/80/80036.jpg",
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/80/80036.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/80/80036.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin36/pantheonloadscreen_36.pie_c_12_12.jpg",
-      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin36/pantheonloadscreen_36_le.pie_c_12_12.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin36/pantheonloadscreen_36.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin36/pantheonloadscreen_36_le.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,

@@ -9,16 +9,16 @@
     1028
   ],
   "buildsInto": [
-    223165,
-    223031,
-    223091
+    4401,
+    3181,
+    3742
   ],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.14/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3066_tank_t3_wingedmoonplate.png",
+  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3066_tank_t3_wingedmoonplate.png",
   "simpleDescription": null,
   "nicknames": [
     "chaps",
