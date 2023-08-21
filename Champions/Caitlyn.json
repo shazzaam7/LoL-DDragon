@@ -4,7 +4,7 @@
   "name": "Caitlyn",
   "title": "the Sheriff of Piltover",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Caitlyn.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Caitlyn.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -197,7 +197,7 @@
         "icon": "https://cdn.communitydragon.org/latest/champion/Caitlyn/ability-icon/p",
         "effects": [
           {
-            "description": "Innate: Caitlyn's basic attacks generate a stack of Count on-attack, doubled if she is within brush. At 6 stacks, or 5 while in brush, her next basic attack consumes all stacks to become a Headshot.",
+            "description": "Innate: Caitlyn's basic attacks generate a stack of Count on-attack, doubled if she is within brush. At 5 stacks, or 4 while in brush, her next basic attack consumes all stacks to become a Headshot.",
             "leveling": []
           },
           {
@@ -794,7 +794,7 @@
   },
   "releaseDate": "2011-01-04",
   "releasePatch": "1.0.0.108",
-  "patchLastChanged": "13.15",
+  "patchLastChanged": "13.16",
   "price": {
     "blueEssence": 450,
     "rp": 260,
@@ -1608,7 +1608,7 @@
       "id": 51029,
       "isBase": false,
       "availability": "Limited",
-      "formatName": "Prestige Arcade (2022)",
+      "formatName": "Prestige Arcade Caitlyn (2022)",
       "lootEligible": false,
       "cost": "Special",
       "sale": 0,

@@ -4,7 +4,7 @@
   "name": "Malzahar",
   "title": "the Prophet of the Void",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Malzahar.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Malzahar.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -599,7 +599,7 @@
         "icon": "https://cdn.communitydragon.org/latest/champion/Malzahar/ability-icon/e",
         "effects": [
           {
-            "description": "Active: Malzahar infects the target enemy's mind, dealing magic damage every 0.5 seconds over 4 seconds, which refreshes upon damaging them with Call of the Void or Nether Grasp. Malefic Visions executes minions if they would be damaged below 15 − 45 (based on level) health.",
+            "description": "Active: Malzahar infects the target enemy's mind, dealing magic damage every 0.25 seconds over 4 seconds, which refreshes upon damaging them with Call of the Void or Nether Grasp. Malefic Visions executes minions if they would be damaged below 10 − 30 (based on level) health.",
             "leveling": [
               {
                 "attribute": "Total Magic Damage",
@@ -643,11 +643,11 @@
                 "modifiers": [
                   {
                     "values": [
-                      10,
-                      14.375,
-                      18.75,
-                      23.125,
-                      27.5
+                      5,
+                      7.1875,
+                      9.375,
+                      11.5625,
+                      13.75
                     ],
                     "units": [
                       "",
@@ -659,11 +659,11 @@
                   },
                   {
                     "values": [
-                      10,
-                      10,
-                      10,
-                      10,
-                      10
+                      5,
+                      5,
+                      5,
+                      5,
+                      5
                     ],
                     "units": [
                       "% AP",
@@ -949,7 +949,7 @@
   },
   "releaseDate": "2010-06-01",
   "releasePatch": "1.0.0.86",
-  "patchLastChanged": "13.9",
+  "patchLastChanged": "13.16",
   "price": {
     "blueEssence": 4800,
     "rp": 880,

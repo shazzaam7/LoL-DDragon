@@ -17,7 +17,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6693_assassin_t4_prowlersclaw.png",
+  "icon": "https://raw.communitydragon.org/13.16/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6693_assassin_t4_prowlersclaw.png",
   "simpleDescription": null,
   "nicknames": [],
   "passives": [
@@ -25,9 +25,9 @@
       "unique": true,
       "mythic": false,
       "name": "Sandstrike",
-      "effects": "Using a {{tip|dash}}, {{tip|lunge}} or {{tip|blink}}, or exiting from {{tip|stealth}}, causes your next basic attack against a champion within 3 seconds to deal {{as|{{rd|85|65}}|physical damage}} {{as|(+ {{rd|45%|30%}} '''bonus''' AD)}} {{as|'''bonus''' physical damage}} [[on-hit]] and {{tip|slow}} the target by 99% for {{fd|0.5}} seconds.",
+      "effects": "Using a {{tip|dash}}, {{tip|lunge}} or {{tip|blink}}, or exiting from {{tip|stealth}}, causes your next basic attack against a champion within 3 seconds to deal {{as|{{rd|85|65}}|physical damage}} {{as|(+ {{rd|55%|35%}} '''bonus''' AD)}} {{as|'''bonus''' physical damage}} [[on-hit]] and {{tip|slow}} the target by 99% for {{fd|0.5}} seconds.",
       "range": null,
-      "cooldown": "10",
+      "cooldown": "5",
       "stats": {
         "abilityPower": {
           "flat": 0.0,

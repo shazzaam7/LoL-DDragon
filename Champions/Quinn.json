@@ -4,7 +4,7 @@
   "name": "Quinn",
   "title": "Demacia's Wings",
   "fullName": "Quinn and Valor",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Quinn.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Quinn.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -482,7 +482,7 @@
         "icon": "https://cdn.communitydragon.org/latest/champion/Quinn/ability-icon/e",
         "effects": [
           {
-            "description": "Active: Quinn dashes to the target enemy, marking them as Vulnerable, dealing physical damage, knocking them back, though not through terrain, and slowing them by 50% decaying over 1.5 seconds. She then leaps back 525 units away from them.",
+            "description": "Active: Quinn dashes to the target enemy, marking them as Vulnerable, dealing physical damage, knocking them back a very short distance, and slowing them by 50% decaying over 1.5 seconds. She then leaps back 525 units away from them.",
             "leveling": [
               {
                 "attribute": "Physical damage",
@@ -578,7 +578,7 @@
         "projectile": null,
         "onHitEffects": null,
         "occurrence": null,
-        "notes": "Quinn will track the target if they change locations.\nShe will dash to the target's previous location without applying Vault's effects if the target is too far away or moves beyond 1200 units.\nQuinn will automatically attempt to attack the target once she completes Vault.\nThe target will turn to face the opposite direction after being  knocked back.\nUnlike its constant cast range Vault's bounce's can vary to allow Quinn to close or to make a gap between herself and the target (depending on casting position) or even to jump through a wall (if there is enough landing room on the other side).\nVault also interrupts basic attacks with  uncancellable windups.(bug)",
+        "notes": "Quinn will track the target if they change locations.\nShe will dash to the target's previous location without applying Vault's effects if the target is too far away or moves beyond 1200 units.\nVault  resets Quinn's remaining attack cooldown a short delay after the first dash ends (even if interrupted).\nThis delay is a fuzzy 0.25 to 0.5 seconds and this matches up with the moment the target of Vault is marked as  Vulnerable.\nQuinn will automatically attempt to attack the target once she completes Vault.\nThe target will turn to face the opposite direction after being  knocked back.\nUnlike its constant cast range Vault's bounce's can vary to allow Quinn to close or to make a gap between herself and the target (depending on casting position) or even to jump through a wall (if there is enough landing room on the other side).\nVault also interrupts basic attacks with  uncancellable windups.(bug)",
         "blurb": "Active:  Quinn  dashes to the target enemy, dealing physical damage,  knocking them back, marking them as  Vulnerable, and briefly  slowing them. She then  leaps backward.",
         "missileSpeed": null,
         "rechargeRate": null,
@@ -1323,8 +1323,8 @@
       "splashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/133/133014.jpg",
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/133/133014.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/133/133014.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin14/quinnloadscreen_14.pie_c_12_14.jpg",
-      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin14/quinnloadscreen_14_le.pie_c_12_14.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin14/quinnloadscreen_14.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin14/quinnloadscreen_14_le.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,

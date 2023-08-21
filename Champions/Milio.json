@@ -4,7 +4,7 @@
   "name": "Milio",
   "title": "The Gentle Flame",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Milio.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Milio.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -247,11 +247,11 @@
                 "modifiers": [
                   {
                     "values": [
-                      90,
-                      135,
-                      180,
-                      225,
-                      270
+                      80,
+                      145,
+                      210,
+                      275,
+                      340
                     ],
                     "units": [
                       "",
@@ -263,11 +263,11 @@
                   },
                   {
                     "values": [
-                      90,
-                      90,
-                      90,
-                      90,
-                      90
+                      120,
+                      120,
+                      120,
+                      120,
+                      120
                     ],
                     "units": [
                       "% AP",
@@ -591,10 +591,10 @@
                   {
                     "values": [
                       60,
-                      80,
-                      100,
-                      120,
-                      140
+                      85,
+                      110,
+                      135,
+                      160
                     ],
                     "units": [
                       "",
@@ -606,11 +606,11 @@
                   },
                   {
                     "values": [
-                      25,
-                      25,
-                      25,
-                      25,
-                      25
+                      30,
+                      30,
+                      30,
+                      30,
+                      30
                     ],
                     "units": [
                       "% AP",
@@ -831,7 +831,7 @@
   },
   "releaseDate": "2023-03-23",
   "releasePatch": "13.6",
-  "patchLastChanged": "13.14",
+  "patchLastChanged": "13.16",
   "price": {
     "blueEssence": 6300,
     "rp": 975,

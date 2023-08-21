@@ -10,7 +10,7 @@
   "removed": false,
   "requiredChampion": "Gangplank",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3903_champ_t0_raisemoralecircle.png",
+  "icon": "https://raw.communitydragon.org/13.16/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3903_champ_t0_raisemoralecircle.png",
   "simpleDescription": "Allies in the Cannon Barrage gain <speed>30% Move Speed</speed> for 2 seconds.",
   "nicknames": [],
   "passives": [

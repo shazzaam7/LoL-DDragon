@@ -4,7 +4,7 @@
   "name": "Karthus",
   "title": "the Deathsinger",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Karthus.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Karthus.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -420,7 +420,7 @@
             ]
           },
           {
-            "description": "Enemies that touch the wall are inflicted with 15% magic resistance reduction and become slowed for 4 seconds, decaying over the duration. Enemies can be affected by Wall of Pain only once per cast.",
+            "description": "Enemies that touch the wall are inflicted with 15% magic resistance reduction and become slowed for 5 seconds, decaying over the duration. Enemies can be affected by Wall of Pain only once per cast.",
             "leveling": [
               {
                 "attribute": "Slow",

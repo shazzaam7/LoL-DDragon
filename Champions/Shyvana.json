@@ -4,7 +4,7 @@
   "name": "Shyvana",
   "title": "the Half-Dragon",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Shyvana.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Shyvana.png",
   "resource": "FURY",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -240,29 +240,8 @@
         "icon": "https://cdn.communitydragon.org/latest/champion/Shyvana/ability-icon/q",
         "effects": [
           {
-            "description": "Active: Shyvana empowers her next two basic attacks within 6 seconds to gain bonus attack speed. Her first attack within the duration has 25 bonus range, deals 100% AD (+ 35% AP) physical damage, and causes her to strike again after 0.25 seconds to deal bonus physical damage.The second strike applies on-hit and on-attack effects at 100% effectiveness and is affected by critical strike modifiers.",
+            "description": "Active: Shyvana empowers her next basic attack within 6 seconds to gain 25 bonus range, deal 100% AD (+ 35% AP) physical damage, and cause her to strike again after 0.25 seconds to deal bonus physical damage.The second strike applies on-hit and on-attack effects at 100% effectiveness and is affected by critical strike modifiers.",
             "leveling": [
-              {
-                "attribute": "Bonus Attack Speed",
-                "modifiers": [
-                  {
-                    "values": [
-                      40,
-                      45,
-                      50,
-                      55,
-                      60
-                    ],
-                    "units": [
-                      "%",
-                      "%",
-                      "%",
-                      "%",
-                      "%"
-                    ]
-                  }
-                ]
-              },
               {
                 "attribute": "Bonus Physical Damage",
                 "modifiers": [
@@ -296,6 +275,32 @@
                       "% AP",
                       "% AP",
                       "% AP"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "description": "After consuming the empowered attack, her next two basic attacks within 5 seconds gain bonus attack speed",
+            "leveling": [
+              {
+                "attribute": "Bonus Attack Speed",
+                "modifiers": [
+                  {
+                    "values": [
+                      40,
+                      45,
+                      50,
+                      55,
+                      60
+                    ],
+                    "units": [
+                      "%",
+                      "%",
+                      "%",
+                      "%",
+                      "%"
                     ]
                   }
                 ]
@@ -346,7 +351,7 @@
         "projectile": null,
         "onHitEffects": null,
         "occurrence": null,
-        "notes": "Dragon Form's Twin Bite cannot apply  Tiamat's Cleave on each target hit because of Cleave's internal 0.05 seconds interval during which it cannot be applied on a different target.\nDragon Form's Twin Bite only applies the attack to enemies that would be hit by the second strike.\nBoth strikes belong to the same cast instance.\nSince the second strike applies after the ability goes on cooldown, it will reduce its own cooldown.\nUnlike most on-hit effects, the one reducing the cooldown of Twin Bite also triggers against  structures.\nIn Dragon Form, Twin Bite consumes an additional stack of  Hail of Blades. (bug)",
+        "notes": "Dragon Form's Twin Bite cannot apply  Tiamat's Cleave on each target hit because of Cleave's internal 0.05 seconds interval during which it cannot be applied on a different target.\nDragon Form's Twin Bite only applies the attack to enemies that would be hit by the second strike.\nIn Dragon Form, Both strikes belong to the same cast instance. In Human Form, they don't.\nSince the second strike applies after the ability goes on cooldown, it will reduce its own cooldown.\nUnlike most on-hit effects, the one reducing the cooldown of Twin Bite also triggers against  structures.\nIn Dragon Form, Twin Bite consumes an additional stack of  Hail of Blades. (bug)",
         "blurb": "Active:  Shyvana's next basic attack within a few seconds will cause her to quickly strike again, dealing bonus physical damage.",
         "missileSpeed": null,
         "rechargeRate": null,
@@ -434,10 +439,10 @@
                   {
                     "values": [
                       10,
-                      16.25,
-                      22.5,
-                      28.75,
-                      35
+                      15,
+                      20,
+                      25,
+                      30
                     ],
                     "units": [
                       "",
@@ -449,11 +454,11 @@
                   },
                   {
                     "values": [
-                      15,
-                      15,
-                      15,
-                      15,
-                      15
+                      10,
+                      10,
+                      10,
+                      10,
+                      10
                     ],
                     "units": [
                       "% bonus AD",
@@ -468,18 +473,18 @@
             ]
           },
           {
-            "description": "During this time, Shyvana's basic attacks deal additional magic damage on-hit equal to 50% of Burnout's per-tick damage to surrounding enemies and extend the duration of Burnout by 1 second, which can occur up to 4 times for a total of 4 additional seconds.",
+            "description": "During this time, Shyvana's basic attacks deal bonus magic damage on-hit to surrounding enemies and extend the duration of Burnout by 1 second, which can occur up to 4 times for a total of 4 additional seconds.",
             "leveling": [
               {
-                "attribute": "Magic Damage",
+                "attribute": "Bonus Magic Damage",
                 "modifiers": [
                   {
                     "values": [
                       5,
-                      8.125,
-                      11.25,
-                      14.375,
-                      17.5
+                      7,
+                      9,
+                      11,
+                      13
                     ],
                     "units": [
                       "",
@@ -491,11 +496,11 @@
                   },
                   {
                     "values": [
-                      7.5,
-                      7.5,
-                      7.5,
-                      7.5,
-                      7.5
+                      5,
+                      5,
+                      5,
+                      5,
+                      5
                     ],
                     "units": [
                       "% bonus AD",
@@ -545,7 +550,7 @@
         "projectile": null,
         "onHitEffects": null,
         "occurrence": null,
-        "notes": "PENDING FOR TEST:: Magic damage on-hit's interactions with  dodging,  blocking, and  blinding effects.",
+        "notes": "Magic damage on-hit can be dodged with  dodging effects.\n PENDING FOR TEST:: Magic damage on-hit's interactions with  blocking and  blinding effects.",
         "blurb": "Active:  Shyvana creates a flame aura, gaining a burst of  movement speed and continually dealing magic damage to nearby enemies.",
         "missileSpeed": null,
         "rechargeRate": null,
@@ -629,7 +634,7 @@
             "leveling": []
           },
           {
-            "description": "Dragon Form Bonus: The fireball deals increased magic damage and explodes upon hitting an enemy champion or reaching the target location, creating a scorched field for 4 seconds. Enemies within the field are marked once and dealt 30 − 60 (based on level) (+ 5% AD) (+ 10% AP) magic damage every 0.5 seconds.",
+            "description": "Dragon Form Bonus: The fireball explodes upon hitting an enemy champion or reaching the target location, dealing increased magic damage and creating a scorched field for 4 seconds. Enemies within the field are marked once and dealt 30 − 60 (based on level) (+ 5% AD) (+ 10% AP) magic damage every 0.5 seconds.",
             "leveling": [
               {
                 "attribute": "Increased Damage",
@@ -764,7 +769,7 @@
         "projectile": "TRUE",
         "onHitEffects": null,
         "occurrence": null,
-        "notes": "The fireball applies  area damage and the on-hit effect against marked targets deals  proc damage.\nIn Dragon Form, the fiery explosion applies  area damage and the burning scorch deals  persistent area damage to all enemies within the area of effect.\nIn Dragon Form, both areas of effect will be centered on the first champion struck, not at the location the missile collided with them.\nThis ability will cast from wherever the caster is at the end of the cast time.\nIn Dragon Form, the visual mark will not be applied to non-champions, but the debuff will still be applied for gameplay purposes.(bug)\n PENDING FOR TEST:: Magic damage on-hit's interactions with  dodging,  blocking, and  blinding effects.",
+        "notes": "The fireball applies  area damage and the on-hit effect against marked targets deals  proc damage.\nIn Dragon Form, the fiery explosion applies  area damage and the burning scorch deals  persistent area damage to all enemies within the area of effect.\nIn Dragon Form, both areas of effect will be centered on the first champion struck, not at the location the missile collided with them.\nThis ability will cast from wherever the caster is at the end of the cast time.\nIn Dragon Form, the visual mark will not be applied to non-champions, but the debuff will still be applied for gameplay purposes.(bug)\nMagic damage on-hit can be dodged by  dodging effects.\n PENDING FOR TEST:: Magic damage on-hit's interactions with  blocking and  blinding effects.",
         "blurb": "Active:  Shyvana unleashes a fireball in the target direction that stops upon hitting an enemy  champion. The fireball deals magic damage to enemies hit and marks them for a few seconds.",
         "missileSpeed": null,
         "rechargeRate": null,
@@ -928,7 +933,7 @@
         "projectile": null,
         "onHitEffects": null,
         "occurrence": null,
-        "notes": "Dragon Descent's  displacement immunity begins from the start of the cast time.\nDragon's Descent has a 100 / 80 / 66.67 / 57.14 / 50 seconds effective cooldown when not attacking.\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Turbo Chemtank  Youmuu's Ghostblade  Gargoyle Stoneplate  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
+        "notes": "Dragon Descent's  displacement immunity begins from the start of the cast time.\nDragon's Descent has a 100 / 80 / 66.67 / 57.14 / 50 seconds effective cooldown when not attacking and not dead.\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Turbo Chemtank  Youmuu's Ghostblade  Gargoyle Stoneplate  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
         "blurb": "Passive - Fury:  Shyvana generates  Fury per second while alive in Human form, and also generates Fury per basic attack in either form.",
         "missileSpeed": null,
         "rechargeRate": null,
@@ -947,7 +952,7 @@
   },
   "releaseDate": "2011-11-01",
   "releasePatch": "1.0.0.128",
-  "patchLastChanged": "13.15",
+  "patchLastChanged": "13.16",
   "price": {
     "blueEssence": 3150,
     "rp": 790,
@@ -1399,7 +1404,7 @@
       "name": "Immortal Journey",
       "id": 102017,
       "isBase": false,
-      "availability": "Upcoming",
+      "availability": "Available",
       "formatName": "Immortal Journey",
       "lootEligible": true,
       "cost": 1350,
@@ -1577,7 +1582,7 @@
         }
       ],
       "lore": "For 100 years, the dragon Shyvana watched over the Sprouting Courage School's gardens, but after saving one of the monk's sons from drowning, she was allowed to train. Transforming into a human, she enjoyed the challenge this new form would bring. Unlike Soraka, Shyvana has no doubt about who she is: a protector of the strongest school of immortality.",
-      "release": "0000-00-00",
+      "release": "2023-08-16",
       "set": [
         "Immortal Journey"
       ],
@@ -1585,7 +1590,7 @@
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/102/102017.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/102/102017.jpg",
       "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin17/shyvanaloadscreen_17.pie_c_13_16.jpg",
-      "loadScreenVintagePath": null,
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin17/shyvanaloadscreen_17_le.pie_c_13_16.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,

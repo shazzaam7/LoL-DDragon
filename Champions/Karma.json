@@ -4,7 +4,7 @@
   "name": "Karma",
   "title": "the Enlightened One",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Karma.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Karma.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -260,7 +260,7 @@
                   },
                   {
                     "values": [
-                      40
+                      50
                     ],
                     "units": [
                       "% AP"
@@ -397,7 +397,7 @@
                   },
                   {
                     "values": [
-                      70
+                      80
                     ],
                     "units": [
                       "% AP"
@@ -429,7 +429,7 @@
                   },
                   {
                     "values": [
-                      60
+                      70
                     ],
                     "units": [
                       "% AP"
@@ -456,7 +456,7 @@
                   },
                   {
                     "values": [
-                      90
+                      100
                     ],
                     "units": [
                       "% AP"
@@ -499,7 +499,7 @@
                   },
                   {
                     "values": [
-                      130
+                      150
                     ],
                     "units": [
                       "% AP"
@@ -1094,9 +1094,9 @@
             {
               "values": [
                 40,
-                38,
-                36,
-                34
+                37,
+                34,
+                31
               ],
               "units": [
                 "",
@@ -1136,7 +1136,7 @@
   },
   "releaseDate": "2011-02-01",
   "releasePatch": "1.0.0.110",
-  "patchLastChanged": "13.6",
+  "patchLastChanged": "13.16",
   "price": {
     "blueEssence": 3150,
     "rp": 790,

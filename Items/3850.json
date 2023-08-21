@@ -12,7 +12,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3850_mage_t1_spellthiefsedge.png",
+  "icon": "https://raw.communitydragon.org/13.16/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3850_mage_t1_spellthiefsedge.png",
   "simpleDescription": "Gain gold and upgrade by damaging enemy champions",
   "nicknames": [
     "Support",

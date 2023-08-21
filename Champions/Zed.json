@@ -4,7 +4,7 @@
   "name": "Zed",
   "title": "the Master of Shadows",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Zed.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Zed.png",
   "resource": "ENERGY",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -1964,7 +1964,7 @@
       "name": "Immortal Journey",
       "id": 238049,
       "isBase": false,
-      "availability": "Upcoming",
+      "availability": "Available",
       "formatName": "Immortal Journey",
       "lootEligible": true,
       "cost": 1350,
@@ -2142,7 +2142,7 @@
         }
       ],
       "lore": "When Zed became immortal and began studying the other realms, a new desire took hold: knowledge was everywhere, so he needed to BE everywhere. Upon discovering his explorations, the Grounded Foresight School banished him. Zed doesn't care, though, for he's found a new demonic power, allowing him to be everywhere and all-knowing.",
-      "release": "0000-00-00",
+      "release": "2023-08-16",
       "set": [
         "Immortal Journey"
       ],
@@ -2150,7 +2150,7 @@
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/238/238049.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/238/238049.jpg",
       "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin49/zedloadscreen_49.pie_c_13_16.jpg",
-      "loadScreenVintagePath": null,
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin49/zedloadscreen_49_le.pie_c_13_16.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,
@@ -2159,7 +2159,9 @@
       "voiceActor": [
         "Donny Lucas"
       ],
-      "splashArtist": []
+      "splashArtist": [
+        "Pandart Studio"
+      ]
     }
   ]
 }

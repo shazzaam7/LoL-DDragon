@@ -26,7 +26,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1018_base_t1_cloakagility.png",
+  "icon": "https://raw.communitydragon.org/13.16/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1018_base_t1_cloakagility.png",
   "simpleDescription": "Increases critical strike chance",
   "nicknames": [],
   "passives": [],

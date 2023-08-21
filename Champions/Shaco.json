@@ -4,7 +4,7 @@
   "name": "Shaco",
   "title": "the Demon Jester",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Shaco.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Shaco.png",
   "resource": "MANA",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -28,7 +28,7 @@
       "percentPerLevel": 0.0
     },
     "manaRegen": {
-      "flat": 7.15,
+      "flat": 6,
       "percent": 0.0,
       "perLevel": 0.45,
       "percentPerLevel": 0.0
@@ -602,10 +602,10 @@
           "modifiers": [
             {
               "values": [
-                50,
-                55,
-                60,
-                65,
+                70,
+                70,
+                70,
+                70,
                 70
               ],
               "units": [
@@ -882,7 +882,7 @@
         "projectile": "TRUE",
         "onHitEffects": null,
         "occurrence": null,
-        "notes": "If the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).",
+        "notes": "Shaco replicates the last attack animation he performed for Two-Shiv Poison's animation.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).",
         "blurb": "Passive: While Two-Shiv Poison is not on cooldown,  Shaco's basic attacks will  slow enemies for a short time.",
         "missileSpeed": null,
         "rechargeRate": null,
@@ -1074,7 +1074,7 @@
   },
   "releaseDate": "2009-10-10",
   "releasePatch": "0.9.25.34",
-  "patchLastChanged": "13.15",
+  "patchLastChanged": "13.16",
   "price": {
     "blueEssence": 3150,
     "rp": 790,
@@ -2145,7 +2145,7 @@
       "name": "Soul Fighter",
       "id": 35043,
       "isBase": false,
-      "availability": "Upcoming",
+      "availability": "Available",
       "formatName": "Soul Fighter",
       "lootEligible": true,
       "cost": 1350,
@@ -2369,7 +2369,7 @@
       "name": "Prestige Soul Fighter",
       "id": 35044,
       "isBase": false,
-      "availability": "Upcoming",
+      "availability": "Rare",
       "formatName": "Prestige Soul Fighter",
       "lootEligible": false,
       "cost": "Special",

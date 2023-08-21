@@ -4,7 +4,7 @@
   "name": "Heimerdinger",
   "title": "the Revered Inventor",
   "fullName": "Cecil B. Heimerdinger",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Heimerdinger.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Heimerdinger.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -286,7 +286,7 @@
         "projectile": "TRUE",
         "onHitEffects": null,
         "occurrence": null,
-        "notes": "Deals  spell damage on basic attacks and  area damage on the beam.\nH-28G Evolution Turret's stats are determined on cast, and do not update with ranking up the ability or gaining or losing AP or levels.\nThe Turret Kit buff will visually represent the recharge rate cooldown, and how many H-28G Evolution Turret's that Heimerdinger has stored. This is visible to both allies and enemies.\nThe recharge rate of H-28G Evolution Turret is affected by ability haste.\nThe H-28G Evolution Turret has a  sight radius of 585 while active and 227.5 while dormant.\nThe -10% sight range modifier is applied only on the first stat update after the H-28G Evolution Turret is spawned, because of this it will have its full 650 sight range for up-to 0.25 seconds upon being spawned.(bug)\nThe amount of Turret Kit charges Heimerdinger has is indicated by small nuts orbiting him.",
+        "notes": "Deals  spell damage on basic attacks and  area damage on the beam.\nH-28G Evolution Turret's stats are determined on cast, and do not update with ranking up the ability or gaining or losing AP or levels.\nH-28G Evolution Turret's charged / beam shot is NOT determined on cast, and is calculated based on current AP the moment it is fired, separate from the rest of the turret's stats. For this reason, momentary AP boosts active at the time a turret is placed will permanently live with the turret's stats (HP and auto attack strength), but will not be included in the charged / beam shot if no longer active at the time it is fired.\nThe Turret Kit buff will visually represent the recharge rate cooldown, and how many H-28G Evolution Turret's that Heimerdinger has stored. This is visible to both allies and enemies.\nThe recharge rate of H-28G Evolution Turret is affected by ability haste.\nThe H-28G Evolution Turret has a  sight radius of 585 while active and 227.5 while dormant.\nThe -10% sight range modifier is applied only on the first stat update after the H-28G Evolution Turret is spawned, because of this it will have its full 650 sight range for up-to 0.25 seconds upon being spawned.(bug)\nThe amount of Turret Kit charges Heimerdinger has is indicated by small nuts orbiting him.",
         "blurb": "Active:  Heimerdinger deploys a rapid-fire turret that deals magic damage to his target, or a nearby enemy. The turret will become dormant while he leaves it alone.",
         "missileSpeed": null,
         "rechargeRate": [

@@ -1,37 +1,35 @@
 {
-  "name": "Hearthbound Axe",
-  "id": 3051,
-  "tier": 2,
+  "name": "The Golden Spatula",
+  "id": 4403,
+  "tier": 3,
   "rank": [
-    "EPIC"
+    "DISTRIBUTED"
   ],
   "buildsFrom": [
-    1036,
-    1042,
-    1036
+    1038,
+    1053,
+    3086,
+    1058,
+    3067,
+    3105
   ],
-  "buildsInto": [
-    3078,
-    6631,
-    3046,
-    3091
-  ],
+  "buildsInto": [],
   "specialRecipe": 0,
   "noEffects": false,
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.16/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3051_fighter_t2_axeofavarosa.png",
-  "simpleDescription": null,
+  "icon": "https://raw.communitydragon.org/13.16/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4403_goldenspatula.png",
+  "simpleDescription": "It does EVERYTHING!",
   "nicknames": [
-    "blue arrow"
+    "debug"
   ],
   "passives": [
     {
       "unique": true,
       "mythic": false,
-      "name": "Nimble",
-      "effects": "Basic attacks grant {{as|{{rd|20|10}} '''bonus''' movement speed}} for 2 seconds.",
+      "name": "Doing Something",
+      "effects": "You are permanently {{bi|On Fire!|{{sbc|On Fire!}}}}",
       "range": null,
       "cooldown": null,
       "stats": {
@@ -209,7 +207,7 @@
   "active": [],
   "stats": {
     "abilityPower": {
-      "flat": 0.0,
+      "flat": 120.0,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,
@@ -217,7 +215,7 @@
       "percentBonus": 0.0
     },
     "armor": {
-      "flat": 0.0,
+      "flat": 30.0,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,
@@ -233,7 +231,7 @@
       "percentBonus": 0.0
     },
     "attackDamage": {
-      "flat": 20.0,
+      "flat": 70.0,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,
@@ -241,7 +239,7 @@
       "percentBonus": 0.0
     },
     "attackSpeed": {
-      "flat": 15.0,
+      "flat": 50.0,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,
@@ -258,7 +256,7 @@
     },
     "criticalStrikeChance": {
       "flat": 0.0,
-      "percent": 0.0,
+      "percent": 30.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,
       "percentBase": 0.0,
@@ -281,7 +279,7 @@
       "percentBonus": 0.0
     },
     "health": {
-      "flat": 0.0,
+      "flat": 250.0,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,
@@ -290,7 +288,7 @@
     },
     "healthRegen": {
       "flat": 0.0,
-      "percent": 0.0,
+      "percent": 100.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,
       "percentBase": 0.0,
@@ -306,7 +304,7 @@
     },
     "lifesteal": {
       "flat": 0.0,
-      "percent": 0.0,
+      "percent": 10.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,
       "percentBase": 0.0,
@@ -321,7 +319,7 @@
       "percentBonus": 0.0
     },
     "magicResistance": {
-      "flat": 0.0,
+      "flat": 30.0,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,
@@ -329,7 +327,7 @@
       "percentBonus": 0.0
     },
     "mana": {
-      "flat": 0.0,
+      "flat": 250.0,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,
@@ -338,7 +336,7 @@
     },
     "manaRegen": {
       "flat": 0.0,
-      "percent": 0.0,
+      "percent": 100.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,
       "percentBase": 0.0,
@@ -346,14 +344,14 @@
     },
     "movespeed": {
       "flat": 0.0,
-      "percent": 0.0,
+      "percent": 10.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,
       "percentBase": 0.0,
       "percentBonus": 0.0
     },
     "abilityHaste": {
-      "flat": 0.0,
+      "flat": 20.0,
       "percent": 0.0,
       "perLevel": 0.0,
       "percentPerLevel": 0.0,
@@ -379,16 +377,12 @@
   },
   "shop": {
     "prices": {
-      "total": 1100,
+      "total": 0,
       "combined": 0,
-      "sell": 440
+      "sell": 0
     },
-    "purchasable": true,
-    "tags": [
-      "FIGHTER",
-      "MOVEMENT",
-      "ONHIT_EFFECTS"
-    ]
+    "purchasable": false,
+    "tags": []
   },
   "iconOverlay": false
 }

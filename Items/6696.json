@@ -15,7 +15,7 @@
   "removed": false,
   "requiredChampion": "",
   "requiredAlly": "",
-  "icon": "https://raw.communitydragon.org/13.15/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6696_axiomarc.png",
+  "icon": "https://raw.communitydragon.org/13.16/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6696_axiomarc.png",
   "simpleDescription": null,
   "nicknames": [],
   "passives": [
@@ -23,7 +23,7 @@
       "unique": true,
       "mythic": false,
       "name": "Flux",
-      "effects": "Scoring a {{tip|takedown}} against an enemy champion within 3 seconds of damaging them refunds 5% {{as|(+ {{fd|0.4}}% per 1 Lethality)}} of your ultimate ability's '''total''' cooldown.",
+      "effects": "Scoring a {{tip|takedown}} against an enemy champion within 3 seconds of damaging them refunds 10% {{as|(+ {{fd|0.4}}% per 1 Lethality)}} of your ultimate ability's '''total''' cooldown.",
       "range": null,
       "cooldown": null,
       "stats": {

@@ -4,7 +4,7 @@
   "name": "Rell",
   "title": "the Iron Maiden",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Rell.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Rell.png",
   "resource": "MANA",
   "attackType": "MELEE",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -1657,8 +1657,8 @@
       "splashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/526/526010.jpg",
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/526/526010.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/526/526010.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin10/rellloadscreen_10.pie_c_12_14.jpg",
-      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin10/rellloadscreen_10_le.pie_c_12_14.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin10/rellloadscreen_10.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin10/rellloadscreen_10_le.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,
@@ -1668,7 +1668,7 @@
         "Laya DeLeon Hayes"
       ],
       "splashArtist": [
-        "Jun Seong Park",
+        "Park Jun Seong",
         "West Studio"
       ]
     }

@@ -4,7 +4,7 @@
   "name": "Kayle",
   "title": "the Righteous",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Kayle.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Kayle.png",
   "resource": "MANA",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -2233,7 +2233,7 @@
       "name": "Immortal Journey",
       "id": 10057,
       "isBase": false,
-      "availability": "Upcoming",
+      "availability": "Available",
       "formatName": "Immortal Journey",
       "lootEligible": true,
       "cost": 1350,
@@ -2411,7 +2411,7 @@
         }
       ],
       "lore": "The Grounded Foresight School teaches power in knowing one's surroundings, but as Kayle nears immortality, doubt has crept in. Her parents' random deaths fostered a desire to exert as much control as possible in her life, but with her teacher Zed's banishment, the ground is now shaky. Immortality, she hopes, will finally give her solid footing.",
-      "release": "0000-00-00",
+      "release": "2023-08-16",
       "set": [
         "Immortal Journey"
       ],
@@ -2419,7 +2419,7 @@
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/10/10057.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/10/10057.jpg",
       "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin57/kayleloadscreen_57.pie_c_13_16.jpg",
-      "loadScreenVintagePath": null,
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin57/kayleloadscreen_57_le.pie_c_13_16.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,

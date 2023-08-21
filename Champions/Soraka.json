@@ -4,7 +4,7 @@
   "name": "Soraka",
   "title": "the Starchild",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Soraka.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Soraka.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -1446,7 +1446,7 @@
       "lootEligible": true,
       "cost": "Special",
       "sale": 0,
-      "distribution": "125 Mythic Essence",
+      "distribution": "150 Mythic Essence",
       "rarity": "Mythic",
       "chromas": [],
       "lore": "Leaving the planet behind with Xayah and the other Star Guardians, Soraka's full powers have been unlocked by her undying love for her friends—in the hopes that one day they will find their companion lost in the final battle with the Twilight Star, and be a family once again.",
@@ -1904,7 +1904,7 @@
       "name": "Immortal Journey",
       "id": 16037,
       "isBase": false,
-      "availability": "Upcoming",
+      "availability": "Available",
       "formatName": "Immortal Journey",
       "lootEligible": true,
       "cost": 1820,
@@ -2039,8 +2039,8 @@
           ]
         }
       ],
-      "lore": "A child of Sprouting Courage School monks, Soraka was expected her to follow them, but she hated having the choice already made for her. Remembering the old tales of God Staff Jax, who believed true power came from assuming nothing, Soraka shunned her parents' wishes to train at the Flowing Intuition School. She'll earn immortality her own way.",
-      "release": "0000-00-00",
+      "lore": "A child of Sprouting Courage School monks, Soraka was expected to follow them, but she hated having the choice already made for her. Remembering the old tales of God Staff Jax, who believed true power came from assuming nothing, Soraka shunned her parents' wishes to train at the Flowing Intuition School. She'll earn immortality her own way.",
+      "release": "2023-08-16",
       "set": [
         "Immortal Journey"
       ],
@@ -2048,14 +2048,18 @@
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/16/16037.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/16/16037.jpg",
       "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin37/sorakaloadscreen_37.pie_c_13_16.jpg",
-      "loadScreenVintagePath": null,
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin37/sorakaloadscreen_37_le.pie_c_13_16.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,
       "newVoice": true,
       "newQuotes": false,
-      "voiceActor": [],
-      "splashArtist": []
+      "voiceActor": [
+        "Lisa Lindsley"
+      ],
+      "splashArtist": [
+        "Bo 'chenbowow' Chen"
+      ]
     }
   ]
 }

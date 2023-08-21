@@ -4,7 +4,7 @@
   "name": "Naafiri",
   "title": "The Hound of a Hundred Bites",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Naafiri.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Naafiri.png",
   "resource": "MANA",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -40,13 +40,13 @@
       "percentPerLevel": 0.0
     },
     "magicResistance": {
-      "flat": 32,
+      "flat": 30,
       "percent": 0.0,
       "perLevel": 2.05,
       "percentPerLevel": 0.0
     },
     "attackDamage": {
-      "flat": 57,
+      "flat": 55,
       "percent": 0.0,
       "perLevel": 2.1,
       "percentPerLevel": 0.0
@@ -94,7 +94,7 @@
       "percentPerLevel": 0.0
     },
     "attackSpeed": {
-      "flat": 0.688,
+      "flat": 0.663,
       "percent": 0.0,
       "perLevel": 2.1,
       "percentPerLevel": 0.0
@@ -610,7 +610,7 @@
         "icon": "https://cdn.communitydragon.org/latest/champion/Naafiri/ability-icon/w",
         "effects": [
           {
-            "description": "Active: Naafiri channels for 0.75 seconds to single out the target enemy. Upon completion, the target is revealed for 1.5 seconds and Naafiri and her Packmates dash to the target, each colliding with the first enemy champion hit. Upon impact, Naafiri deals physical damage and slows the target by 99% for 0.25 seconds, while Packmates deal 10% of that damage to their own targets.",
+            "description": "Active: Naafiri and her Packmates channel for 0.75 seconds to single out the target enemy, revealing them in the duration. Upon completion, they dash to the target, each colliding with the first enemy champion hit. Upon impact, Naafiri deals physical damage and slows the target by 99% for 0.25 seconds, while Packmates deal 10% of that damage to their own targets.",
             "leveling": [
               {
                 "attribute": "Physical Damage",
@@ -747,7 +747,7 @@
         "projectile": null,
         "onHitEffects": null,
         "occurrence": null,
-        "notes": "Spell shield will block one instance of damage.\nNaafiri will be ordered to basic attack the target at the end of the dash.\nNaafiri will windup a basic attack while dashing.(bug)\nPackmates hitting the same target as Naafiri will count as dealing \"additional\" damage.\nThe following table refers for interactions while Naafiri is  channeling:\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Turbo Chemtank  Youmuu's Ghostblade  Gargoyle Stoneplate  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath Grounding effects Immobilizing effects Cast-inhibiting effects",
+        "notes": "Spell shield will block one instance of damage.\nNaafiri will be ordered to basic attack the target at the end of the dash.\nNaafiri will windup a basic attack while dashing.(bug)\nThe target is  revealed for another 1.5 seconds after the channel completes.\nPackmates hitting the same target as Naafiri will count as dealing \"additional\" damage.\nThe following table refers for interactions while Naafiri is  channeling:\nIf Naafiri's channel is interrupted, the Packmates'  channels will be canceled as well.\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Turbo Chemtank  Youmuu's Ghostblade  Gargoyle Stoneplate  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath Grounding effects Immobilizing effects Cast-inhibiting effects",
         "blurb": "Active:  Naafiri briefly  channels to  singles out an enemy. Then she and her  Packmates  dash together toward the target, each colliding with the first enemy champion hit. Upon impact, Naafiri's deals physical damage and briefly  slows the target, while Packmates will deal a small portion of that damage to their own targets.",
         "missileSpeed": null,
         "rechargeRate": null,
@@ -1133,7 +1133,7 @@
         "projectile": null,
         "onHitEffects": null,
         "occurrence": null,
-        "notes": "Naafiri can move during The Call of the Pack's cast time.\nWhile the The Call of the Pack is active, it increases  We Are More's summon cap to 4 / 6 / 7 (based on level).\nIf  We Are More is on cooldown when The Call of the Pack is cast, its current cooldown is also reduced by 50%.\n Darkin Daggers' bleeding effect does not count as a hit for gaining the shield.\nWhen The Call of the Pack refreshes, Naafiri will trigger all effects of the ability a second time.\nIf the effect refreshes without Naafiri ever gaining a shield, she will gain the shield automatically upon the refresh.\nIn this case, she will not gain the second shield automatically and will have to hit a champion in the duration to receive it.\nThe first and second shield do not stack with each other. Hitting a champion with the first shield only refreshes its duration.\nIn a similar case, if she has the shield and the refresh occurs, the shield's duration will also be refreshed.\nIf that shield had mitigated some damage, then its strength will also be restored. The second shield can no longer be gained in this case.\nThis ability will cast from wherever the caster is at the end of the cast time.\nThe revealed area and revealed enemy champions are determined based on Naafiri's location when the cast time completes and Naafiri does not reveal and additional area or champions where she moves to, nor any champions that enter the revealed area after the point in time.\nThe additional Packmates that despawn are predetermined by an order, most likely their internal unit (spawn) IDs. It does not consider which Packmates are the closest or healthiest.",
+        "notes": "Naafiri can move during The Call of the Pack's cast time.\nWhile The Call of the Pack is active, it increases  We Are More's summon cap to 4 / 6 / 7 (based on level).\nIf  We Are More is on cooldown when The Call of the Pack is cast, its current cooldown is also reduced by 50%.\n Darkin Daggers' bleeding effect does not count as a hit for gaining the shield.\nWhen The Call of the Pack refreshes, Naafiri will trigger all effects of the ability a second time.\nIf the effect refreshes without Naafiri ever gaining a shield, she will gain the shield automatically upon the refresh.\nIn this case, she will not gain the second shield automatically and will have to hit a champion in the duration to receive it.\nThe first and second shield do not stack with each other. Hitting a champion with the first shield only refreshes its duration.\nIn a similar case, if she has the shield and the refresh occurs, the shield's duration will also be refreshed.\nIf that shield had mitigated some damage, then its strength will also be restored. The second shield can no longer be gained in this case.\nThis ability will cast from wherever the caster is at the end of the cast time.\nThe revealed area and revealed enemy champions are determined based on Naafiri's location when the cast time completes and Naafiri does not reveal and additional area or champions where she moves to, nor any champions that enter the revealed area after the point in time.\nThe additional Packmates that despawn are predetermined by an order, most likely their internal unit (spawn) IDs. It does not consider which Packmates are the closest or healthiest.",
         "blurb": "Passive:  Hounds' Pursuit gains bonus cast range.",
         "missileSpeed": null,
         "rechargeRate": null,
@@ -1152,7 +1152,7 @@
   },
   "releaseDate": "2023-07-19",
   "releasePatch": "13.14",
-  "patchLastChanged": "13.15",
+  "patchLastChanged": "13.16",
   "price": {
     "blueEssence": 7800,
     "rp": 975,

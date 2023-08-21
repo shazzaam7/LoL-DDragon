@@ -4,13 +4,13 @@
   "name": "Tristana",
   "title": "the Yordle Gunner",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Tristana.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Tristana.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "PHYSICAL_DAMAGE",
   "stats": {
     "health": {
-      "flat": 670,
+      "flat": 640,
       "percent": 0.0,
       "perLevel": 102,
       "percentPerLevel": 0.0
@@ -34,13 +34,13 @@
       "percentPerLevel": 0.0
     },
     "armor": {
-      "flat": 26,
+      "flat": 30,
       "percent": 0.0,
-      "perLevel": 4.2,
+      "perLevel": 4.5,
       "percentPerLevel": 0.0
     },
     "magicResistance": {
-      "flat": 30,
+      "flat": 28,
       "percent": 0.0,
       "perLevel": 1.3,
       "percentPerLevel": 0.0
@@ -860,7 +860,7 @@
   },
   "releaseDate": "2009-02-21",
   "releasePatch": "Alpha Week 2",
-  "patchLastChanged": "12.16",
+  "patchLastChanged": "13.16",
   "price": {
     "blueEssence": 1350,
     "rp": 585,

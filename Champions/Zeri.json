@@ -4,7 +4,7 @@
   "name": "Zeri",
   "title": "The Spark of Zaun",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Zeri.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Zeri.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -1285,7 +1285,7 @@
       "name": "Immortal Journey",
       "id": 221019,
       "isBase": false,
-      "availability": "Upcoming",
+      "availability": "Available",
       "formatName": "Immortal Journey",
       "lootEligible": true,
       "cost": 1350,
@@ -1463,7 +1463,7 @@
         }
       ],
       "lore": "Orphaned as a baby, Zeri was taken in by a family of inventors who cultivated her tinkering tendencies. Their love ignited a deep desire to help others over herself, and because of her prodigious talents, her family paid her admission to the Tempered Faith School. A student full of dreams and curiosity, Zeri will use immortality to help everyone she can.",
-      "release": "0000-00-00",
+      "release": "2023-08-16",
       "set": [
         "Immortal Journey"
       ],
@@ -1471,7 +1471,7 @@
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/221/221019.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/221/221019.jpg",
       "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin19/zeriloadscreen_19.pie_c_13_16.jpg",
-      "loadScreenVintagePath": null,
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zeri/skins/skin19/zeriloadscreen_19_le.pie_c_13_16.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,

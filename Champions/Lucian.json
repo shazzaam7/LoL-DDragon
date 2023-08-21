@@ -4,7 +4,7 @@
   "name": "Lucian",
   "title": "the Purifier",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Lucian.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Lucian.png",
   "resource": "MANA",
   "attackType": "RANGED",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -209,7 +209,7 @@
             "leveling": []
           },
           {
-            "description": "Innate - Vigilance: Whenever Lucian is healed or shielded, or an enemy champion within 1000 units is immobilized, his next two shots within 6 seconds are empowered to deal 10 (+ 15% AD) bonus magic damage on-hit. He can store up to 4 empowered shots at a time.",
+            "description": "Innate - Vigilance: Whenever Lucian is healed or shielded, or an enemy champion within 1000 units is immobilized, his next two shots within 6 seconds are empowered to deal 15 (+ 15% AD) bonus magic damage on-hit. He can store up to 4 empowered shots at a time.",
             "leveling": []
           }
         ],
@@ -980,7 +980,7 @@
   },
   "releaseDate": "2013-08-22",
   "releasePatch": "3.10a",
-  "patchLastChanged": "13.13",
+  "patchLastChanged": "13.16",
   "price": {
     "blueEssence": 1350,
     "rp": 585,
@@ -2209,8 +2209,8 @@
       "splashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/236/236040.jpg",
       "uncenteredSplashPath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/236/236040.jpg",
       "tilePath": "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/236/236040.jpg",
-      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin40/lucianloadscreen_40.pie_c_12_16.jpg",
-      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin40/lucianloadscreen_40_le.pie_c_12_16.jpg",
+      "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin40/lucianloadscreen_40.jpg",
+      "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin40/lucianloadscreen_40_le.jpg",
       "newEffects": true,
       "newAnimations": true,
       "newRecall": true,

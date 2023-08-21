@@ -4,7 +4,7 @@
   "name": "Vladimir",
   "title": "the Crimson Reaper",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Vladimir.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Vladimir.png",
   "resource": "BLOODTHIRST",
   "attackType": "RANGED",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -318,7 +318,7 @@
             "leveling": []
           },
           {
-            "description": "Crimson Rush Bonus: Transfusion consumes all Bloodthirst to deal 85% increased damage and heal Vladimir for an additional 30 − 200 (based on level) (+ 5% (+ 4% per 100 AP) missing health), reduced to 35% against minions.",
+            "description": "Crimson Rush Bonus: Transfusion consumes all Bloodthirst to deal 85% increased damage and heal Vladimir for an additional 30 − 200 (based on level) (+ 5% (+ 4% per 100 AP) of his missing health), reduced to 35% against minions.",
             "leveling": [
               {
                 "attribute": "Increased Damage",
@@ -795,7 +795,7 @@
             "leveling": []
           },
           {
-            "description": "After the duration, the infection bursts to deal magic damage to all affected targets and, after a 0.4-second delay, heal Vladimir for each infected champion, reduced by 40% for subsequent champions.",
+            "description": "After the duration, the infection bursts to deal magic damage to all affected targets and, after a 0.4-second delay, heal Vladimir for each infected champion, reduced by 40% for champions beyond the first.",
             "leveling": [
               {
                 "attribute": "Magic damage",

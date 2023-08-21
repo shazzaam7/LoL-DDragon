@@ -4,7 +4,7 @@
   "name": "Rek'Sai",
   "title": "the Void Burrower",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/RekSai.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/RekSai.png",
   "resource": "RAGE",
   "attackType": "MELEE",
   "adaptiveType": "PHYSICAL_DAMAGE",
@@ -246,34 +246,18 @@
                 "modifiers": [
                   {
                     "values": [
-                      21,
-                      27,
-                      33,
-                      39,
-                      45
-                    ],
-                    "units": [
-                      "",
-                      "",
-                      "",
-                      "",
-                      ""
-                    ]
-                  },
-                  {
-                    "values": [
-                      50,
-                      50,
-                      50,
-                      50,
+                      34,
+                      38,
+                      42,
+                      46,
                       50
                     ],
                     "units": [
-                      "% bonus AD",
-                      "% bonus AD",
-                      "% bonus AD",
-                      "% bonus AD",
-                      "% bonus AD"
+                      "% AD",
+                      "% AD",
+                      "% AD",
+                      "% AD",
+                      "% AD"
                     ]
                   }
                 ]
@@ -283,34 +267,18 @@
                 "modifiers": [
                   {
                     "values": [
-                      63,
-                      81,
-                      99,
-                      117,
-                      135
-                    ],
-                    "units": [
-                      "",
-                      "",
-                      "",
-                      "",
-                      ""
-                    ]
-                  },
-                  {
-                    "values": [
-                      150,
-                      150,
-                      150,
-                      150,
+                      102,
+                      114,
+                      126,
+                      138,
                       150
                     ],
                     "units": [
-                      "% bonus AD",
-                      "% bonus AD",
-                      "% bonus AD",
-                      "% bonus AD",
-                      "% bonus AD"
+                      "% AD",
+                      "% AD",
+                      "% AD",
+                      "% AD",
+                      "% AD"
                     ]
                   }
                 ]
@@ -547,7 +515,7 @@
         "icon": "https://cdn.communitydragon.org/latest/champion/RekSai/ability-icon/w",
         "effects": [
           {
-            "description": "Active: Rek'Sai becomes Un-Burrowed, gaining access to her Un-Burrowed abilities. Additionally, she deals physical damage to nearby enemies and knocks them aside. The enemy closest to the center is instead knocked up for 1 second, and cannot be affected by Unburrow again for some time.",
+            "description": "Active: Rek'Sai becomes Un-Burrowed, gaining access to her Un-Burrowed abilities. Additionally, she deals physical damage to nearby enemies and knocks them aside, then slows them by 40% for 0.5 seconds. The enemy closest to the center is instead knocked up for 1 second, and cannot be affected by Unburrow again for some time.",
             "leveling": [
               {
                 "attribute": "Physical Damage",
@@ -624,7 +592,7 @@
         "projectile": null,
         "onHitEffects": null,
         "occurrence": null,
-        "notes": "Rek'Sai's attack range is reduced by 50 while Burrowed, which makes an automatic cast of Unburrow always put Rek'Sai at least 50 units within her attack range against the target to follow up with.\nNote that the Unborrow effect radius is usually greater than  75, meaning Rek'Sai can knock up a single target from slightly further away when she casts Unburrow the standard way, but may have to walk slightly closer to attack that target afterwards.\nUnburrow does not count as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nUnburrow's per-target  cooldown only applies to targets affected by the  knock-up, but provides immunity to all effects of the ability.\nUnburrow is still considered an ability and is thus stopped by  silence. She can basic attack normally during this time, without leaving unburrow.\nFor a brief moment during the beginning animation of  Tunnel, Rek'Sai can trigger Unburrow by issuing an attack command.",
+        "notes": "Rek'Sai's attack range is reduced by 50 while Burrowed, which makes an automatic cast of Unburrow always put Rek'Sai at least 50 units within her attack range against the target to follow up with.\nNote that the Unborrow effect radius is usually greater than  75, meaning Rek'Sai can knock up a single target from slightly further away when she casts Unburrow the standard way, but may have to walk slightly closer to attack that target afterwards.\nThe  slow debuff is applied when the  airborne debuff is removed and lasts until the first buff update after its duration completes (\"is fuzzy\").\nUnburrow does not count as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nUnburrow's per-target  cooldown only applies to targets affected by the  knock-up, but provides immunity to all effects of the ability.\nUnburrow is still considered an ability and is thus stopped by  silence. She can basic attack normally during this time, without leaving unburrow.\nFor a brief moment during the beginning animation of  Tunnel, Rek'Sai can trigger Unburrow by issuing an attack command.",
         "blurb": "Active:  Rek'Sai becomes Un-Burrowed, gaining access to her Un-Burrowed abilities. Additionally, she deals physical damage to nearby enemies and  knocks them aside. The nearest enemy hit is instead  knocked up, and cannot be affected again by Unburrow for some time.",
         "missileSpeed": null,
         "rechargeRate": null,
@@ -950,7 +918,7 @@
   },
   "releaseDate": "2014-12-11",
   "releasePatch": "4.21",
-  "patchLastChanged": "13.14",
+  "patchLastChanged": "13.16",
   "price": {
     "blueEssence": 4800,
     "rp": 880,

@@ -4,7 +4,7 @@
   "name": "Sejuani",
   "title": "Fury of the North",
   "fullName": "",
-  "icon": "http://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/Sejuani.png",
+  "icon": "http://ddragon.leagueoflegends.com/cdn/13.16.1/img/champion/Sejuani.png",
   "resource": "MANA",
   "attackType": "MELEE",
   "adaptiveType": "MAGIC_DAMAGE",
@@ -607,7 +607,7 @@
         "icon": "https://cdn.communitydragon.org/latest/champion/Sejuani/ability-icon/e",
         "effects": [
           {
-            "description": "Passive: Winter's Wrath and both Sejuani's and nearby allied melee champions' attacks on-hit apply stacks of Frost to enemy champions, medium or large monsters, and large minions for 5 seconds, refreshing on subsequent applications and stacking up to 4 times, though not applying if the target is Frozen. Enemies hit by Permafrost or Glacial Prison's bola have all of their Frost stacks consumed. Enemy champions cannot be affected by Frost for 10 seconds after having it consumed. Sejuani can cast Permafrost against an enemy with 4 stacks.",
+            "description": "Passive: Winter's Wrath and both Sejuani's and nearby allied melee champions' attacks on-hit apply stacks of Frost to enemy champions, medium or large monsters, and large minions for 5 seconds, refreshing on subsequent applications and stacking up to 4 times, though not applying if the target is Frozen. Enemies hit by Permafrost or Glacial Prison's bola have all of their Frost stacks consumed. Enemy champions cannot be affected by Frost for 8 seconds after having it consumed. Sejuani can cast Permafrost against an enemy with 4 stacks.",
             "leveling": []
           },
           {
